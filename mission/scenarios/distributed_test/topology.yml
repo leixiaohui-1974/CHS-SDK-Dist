@@ -1,0 +1,26 @@
+# Defines the physical connections between components
+connections:
+  - upstream: wendegen_reservoir
+    downstream: water_intake_gate
+  - upstream: water_intake_gate
+    downstream: tunnel_1
+  - upstream: tunnel_1
+    downstream: taoriver_gate
+  - upstream: taoriver_gate
+    downstream: tunnel_2
+  - upstream: tunnel_2
+    downstream: guiliu_gate
+  - upstream: guiliu_gate
+    downstream: tunnel_3
+  - upstream: tunnel_3
+    downstream: connection_pool
+  - upstream: connection_pool
+    downstream: pipe_1
+  - upstream: pipe_1
+    downstream: online_valve
+  - upstream: online_valve
+    downstream: pipe_2
+  - upstream: pipe_2
+    downstream: terminal_valve
+  - upstream: terminal_valve
+    downstream: terminal_pool

@@ -92,6 +92,7 @@ class SimulationLoader:
                 "EmergencyAgent": "core_lib.local_agents.supervisory.emergency_agent.EmergencyAgent",
                 "CentralDispatcherAgent": "core_lib.local_agents.supervisory.central_dispatcher_agent.CentralDispatcherAgent",
                 "CsvInflowAgent": "core_lib.data_access.csv_inflow_agent.CsvInflowAgent",
+                "CommunicationProxyAgent": "core_lib.distributor.communication_proxy_agent.CommunicationProxyAgent",
             }
 
             if class_path not in CLASS_MAP:
@@ -210,6 +211,11 @@ class SimulationLoader:
                 args['csv_file_path'] = str(csv_path)
                 args['time_column'] = config['time_column']
                 args['data_column'] = config['data_column']
+
+            elif agent_class_name == 'CommunicationProxyAgent':
+                # Pass all config parameters directly to the agent's constructor
+                for key, value in config.items():
+                    args[key] = value
 
             instance = AgentClass(**args)
             self.harness.add_agent(instance)

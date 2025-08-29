@@ -1,0 +1,110 @@
+# Defines all physical components in the simulation
+components:
+  - id: wendegen_reservoir
+    class: Reservoir
+    initial_state:
+      water_level: 350.0
+    parameters:
+      surface_area: 5.0e+7
+
+  - id: water_intake_gate
+    class: Gate
+    initial_state:
+      opening: 0.5
+    parameters:
+      width: 15
+      discharge_coefficient: 0.6
+
+  - id: tunnel_1
+    class: Canal
+    initial_state:
+      water_level: 349.0
+      volume: 7.0e+7
+    parameters:
+      length: 70000
+      bottom_width: 20
+      slope: 0.0001
+      side_slope_z: 2
+      manning_n: 0.03
+
+  - id: taoriver_gate
+    class: Gate
+    initial_state:
+      opening: 0.6
+    parameters: {}
+
+  - id: tunnel_2
+    class: Canal
+    initial_state:
+      water_level: 325.0
+      volume: 8.0e+6
+    parameters:
+      length: 8000
+      bottom_width: 20
+      slope: 0.0001
+      side_slope_z: 2
+      manning_n: 0.03
+
+  - id: guiliu_gate
+    class: Gate
+    initial_state:
+      opening: 0.6
+    parameters: {}
+
+  - id: tunnel_3
+    class: Canal
+    initial_state:
+      water_level: 322.0
+      volume: 1.0e+8
+    parameters:
+      length: 100000
+      bottom_width: 20
+      slope: 0.0001
+      side_slope_z: 2
+      manning_n: 0.03
+
+  - id: connection_pool
+    class: Reservoir
+    initial_state:
+      water_level: 320.0
+    parameters:
+      surface_area: 1.0e+4
+
+  - id: pipe_1
+    class: Pipe
+    initial_state:
+      flow: 15.0
+      pressure: 0.8
+    parameters:
+      length: 20000
+      diameter: 3.0
+      friction_factor: 0.015
+
+  - id: online_valve
+    class: Valve
+    initial_state:
+      setting: 0.7
+    parameters: {}
+
+  - id: pipe_2
+    class: Pipe
+    initial_state:
+      flow: 15.0
+      pressure: 0.7
+    parameters:
+      length: 80000
+      diameter: 3.0
+      friction_factor: 0.015
+
+  - id: terminal_valve
+    class: Valve
+    initial_state:
+      setting: 0.5
+    parameters: {}
+
+  - id: terminal_pool
+    class: Reservoir
+    initial_state:
+      water_level: 212.0
+    parameters:
+      surface_area: 1.0e+5
