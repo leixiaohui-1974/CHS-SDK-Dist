@@ -1,0 +1,63 @@
+# Agents and Controllers Definition
+agents:
+  # --- Inflow Agents ---
+  - id: inflow_agent_A
+    class: ConstantInflowAgent
+    config:
+      target_component_id: reservoir_A
+      inflow_rate: 100.0
+
+  - id: inflow_agent_B
+    class: ConstantInflowAgent
+    config:
+      target_component_id: reservoir_B
+      inflow_rate: 100.0
+
+  # --- Perception Agents ---
+  - id: twin_A
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_A
+      state_topic: "state/reservoir/A"
+
+  - id: twin_B
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_B
+      state_topic: "state/reservoir/B"
+
+  # --- Local Control Agents ---
+  - id: controller_A
+    class: LocalGateControlAgent
+    config:
+      state_subscription_topic: "state/reservoir/A"
+      action_topic: "action/gate/gate_A"
+      shutdown_topic: "command/shutdown/A"
+      initial_setpoint: 51.0
+
+  - id: controller_B
+    class: LocalGateControlAgent
+    config:
+      state_subscription_topic: "state/reservoir/B"
+      command_subscription_topic: "command/setpoint/B"
+      action_topic: "action/gate/gate_B"
+      initial_setpoint: 51.0
+
+  # --- Supervisory and Special Agents ---
+  - id: failure_injector
+    class: FailureInjectionAgent
+    config:
+      target_topic: "command/shutdown/A"
+      failure_time: 150.0
+
+  - id: supervisor
+    class: SupervisoryAgent
+    config:
+      # Topics to monitor
+      state_topic_A: "state/reservoir/A"
+      state_topic_B: "state/reservoir/B"
+      # Topic to send corrective commands on
+      command_topic_B: "command/setpoint/B"
+      # Thresholds for intervention
+      deviation_threshold: 1.0 # meters
+      corrective_setpoint: 50.2 # meters

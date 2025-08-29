@@ -1,0 +1,32 @@
+# Agents and Controllers Definition
+agents:
+  # Agent to provide a constant inflow to the reservoir
+  - id: inflow_agent
+    class: ConstantInflowAgent
+    config:
+      target_component_id: main_reservoir
+      inflow_rate: 150.0 # m^3/s
+
+  # "Sensor" agent that perceives the state of the reservoir
+  - id: reservoir_twin
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: main_reservoir
+      state_topic: "state/reservoir/main"
+
+  # Local agent that executes low-level control
+  - id: gate_controller
+    class: LocalGateControlAgent
+    config:
+      state_subscription_topic: "state/reservoir/main"
+      command_subscription_topic: "command/setpoint"
+      initial_setpoint: 51.0 # meters
+      action_topic: "action/gate/flood_gate"
+
+  # Supervisory agent that issues high-level commands
+  - id: central_commander
+    class: CentralCommandAgent
+    config:
+      command_topic: "command/setpoint"
+      new_setpoint: 50.5 # The new goal for the water level
+      command_time: 200.0 # Time in seconds to issue the new command

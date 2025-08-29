@@ -1,0 +1,17 @@
+# Physical Components Definition
+components:
+  - id: reservoir_1
+    class: Reservoir
+    initial_state:
+      water_level: 50.0  # meters
+      volume: 50000.0    # m^3
+    parameters:
+      surface_area: 1000.0      # m^2
+
+  - id: reservoir_2
+    class: Reservoir
+    initial_state:
+      water_level: 40.0  # meters
+      volume: 32000.0    # m^3
+    parameters:
+      surface_area: 800.0       # m^2
