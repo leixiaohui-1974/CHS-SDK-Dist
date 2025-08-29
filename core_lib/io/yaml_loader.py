@@ -98,6 +98,13 @@ class SimulationLoader:
                 "CentralDispatcherAgent": "core_lib.local_agents.supervisory.central_dispatcher_agent.CentralDispatcherAgent",
                 "CsvInflowAgent": "core_lib.data_access.csv_inflow_agent.CsvInflowAgent",
                 "CommunicationProxyAgent": "core_lib.distributor.communication_proxy_agent.CommunicationProxyAgent",
+                "ConstantInflowAgent": "core_lib.local_agents.disturbances.inflow_agent.ConstantInflowAgent",
+                "DataAggregator": "core_lib.local_agents.data_aggregator_agent.DataAggregator",
+                "LocalGateControlAgent": "core_lib.local_agents.control.local_gate_control_agent.LocalGateControlAgent",
+                "FailureInjectionAgent": "core_lib.local_agents.disturbances.failure_injection_agent.FailureInjectionAgent",
+                "SupervisoryAgent": "core_lib.local_agents.supervisory.supervisory_agent.SupervisoryAgent",
+                "TaskManagerAgent": "core_lib.local_agents.task_manager_agent.TaskManagerAgent",
+                "WorkerAgent": "core_lib.local_agents.worker_agent.WorkerAgent",
             }
 
             if '.' in class_path:

@@ -204,18 +204,21 @@ class SimulationHarness:
                 print(f"    {cid}: {state}")
             print("")
 
-    def run_mas_simulation(self):
+    def run_mas_simulation(self, stop_condition=None):
         """
         Runs a full Multi-Agent System (MAS) simulation using the graph topology.
         """
-        if not self.sorted_components:
-            raise Exception("Harness has not been built. Call harness.build() before running.")
+        if not self.agents:
+            raise Exception("No agents have been added to the simulation. Cannot run MAS simulation.")
 
         num_steps = int(self.duration / self.dt)
         print(f"Starting MAS simulation: Duration={self.duration}s, TimeStep={self.dt}s\n")
 
         self.history = []
         for i in range(num_steps):
+            if stop_condition and stop_condition():
+                print("Stop condition met. Ending simulation.")
+                break
             current_time = i * self.dt
             print(f"--- MAS Simulation Step {i+1}, Time: {current_time:.2f}s ---")
 
