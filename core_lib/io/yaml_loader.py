@@ -80,15 +80,20 @@ class SimulationLoader:
                 # Physical Components
                 "Reservoir": "core_lib.physical_objects.reservoir.Reservoir",
                 "Gate": "core_lib.physical_objects.gate.Gate",
+                "RiverChannel": "core_lib.physical_objects.river_channel.RiverChannel",
                 "Canal": "core_lib.physical_objects.canal.Canal",
                 "Pipe": "core_lib.physical_objects.pipe.Pipe",
                 "Valve": "core_lib.physical_objects.valve.Valve",
+                "Pump": "core_lib.physical_objects.pump.Pump",
+                "Lake": "core_lib.physical_objects.lake.Lake",
+                "WaterTurbine": "core_lib.physical_objects.water_turbine.WaterTurbine",
 
                 # Controllers
                 "PIDController": "core_lib.local_agents.control.pid_controller.PIDController",
 
                 # Agents
                 "DigitalTwinAgent": "core_lib.local_agents.perception.digital_twin_agent.DigitalTwinAgent",
+                "LocalControlAgent": "core_lib.local_agents.control.local_control_agent.LocalControlAgent",
                 "EmergencyAgent": "core_lib.local_agents.supervisory.emergency_agent.EmergencyAgent",
                 "CentralDispatcherAgent": "core_lib.local_agents.supervisory.central_dispatcher_agent.CentralDispatcherAgent",
                 "CsvInflowAgent": "core_lib.data_access.csv_inflow_agent.CsvInflowAgent",
@@ -132,9 +137,12 @@ class SimulationLoader:
             }
 
             # Some components might need the message bus at init time
-            if 'Reservoir' in comp_class_name:
+            # Make components message-aware if they have a topic defined
+            if 'action_topic' in comp_conf:
                 args['message_bus'] = self.message_bus
-                # In a more complex scenario, we would also pass the inflow_topic here
+                args['action_topic'] = comp_conf['action_topic']
+            elif 'Reservoir' in comp_class_name: # Legacy support for reservoir inflow
+                args['message_bus'] = self.message_bus
                 args['inflow_topic'] = f"inflow/{comp_id}"
 
             instance = CompClass(**args)
@@ -216,6 +224,15 @@ class SimulationLoader:
                 # Pass all config parameters directly to the agent's constructor
                 for key, value in config.items():
                     args[key] = value
+
+            elif agent_class_name == 'LocalControlAgent':
+                # Handle the nested controller object
+                controller_conf = config.pop('controller')
+                CtrlClass = self._get_class(controller_conf['class'])
+                controller_instance = CtrlClass(**controller_conf.get('config', {}))
+                args['controller'] = controller_instance
+                # Pass remaining config to the agent constructor
+                args.update(config)
 
             instance = AgentClass(**args)
             self.harness.add_agent(instance)

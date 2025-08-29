@@ -1,0 +1,19 @@
+components:
+  - id: reservoir_1
+    class: Reservoir
+    initial_state:
+      volume: 2.1e+7  # 21,000,000 m^3
+      water_level: 14.0
+    parameters:
+      surface_area: 1.5e+6
+
+  - id: gate_1
+    class: Gate
+    initial_state:
+      opening: 0.5
+    parameters:
+      max_rate_of_change: 0.1
+      discharge_coefficient: 0.6
+      width: 10
+    # Make the gate message-aware so it can be controlled by an agent
+    action_topic: action/gate_1/opening

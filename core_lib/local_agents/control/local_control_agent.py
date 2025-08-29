@@ -17,7 +17,8 @@ class LocalControlAgent(Agent):
 
     def __init__(self, agent_id: str, controller: Controller, message_bus: MessageBus,
                  observation_topic: str, observation_key: str, action_topic: str,
-                 dt: float, command_topic: Optional[str] = None, feedback_topic: Optional[str] = None):
+                 dt: float, action_key: str = 'control_signal',
+                 command_topic: Optional[str] = None, feedback_topic: Optional[str] = None):
         """
         Initializes the LocalControlAgent.
 
@@ -28,6 +29,7 @@ class LocalControlAgent(Agent):
             observation_topic: The topic to listen to for state updates.
             observation_key: The specific key in the observation message to use as a process variable.
             action_topic: The topic to publish control actions to.
+            action_key: The key to use in the action message payload.
             dt: The simulation time step, required for the controller.
             command_topic: The topic for receiving high-level commands.
             feedback_topic: The topic for receiving state feedback from the controlled object.
@@ -38,6 +40,7 @@ class LocalControlAgent(Agent):
         self.observation_topic = observation_topic
         self.observation_key = observation_key
         self.action_topic = action_topic
+        self.action_key = action_key
         self.dt = dt
         self.latest_feedback: State = {}
 
@@ -102,7 +105,7 @@ class LocalControlAgent(Agent):
                 self.bus.publish(topic, control_signal)
         else:
             # Legacy support for single action topic
-            action_message: Message = {'control_signal': control_signal, 'agent_id': self.agent_id}
+            action_message: Message = {self.action_key: control_signal, 'agent_id': self.agent_id}
             self.bus.publish(self.action_topic, action_message)
 
     def run(self, current_time: float):

@@ -1,0 +1,24 @@
+agents:
+  - id: reservoir_twin
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_1
+      state_topic: "state/reservoir_1/level"
+
+  - id: gate_controller
+    class: LocalControlAgent
+    config:
+      observation_topic: "state/reservoir_1/level"
+      observation_key: "water_level"
+      action_topic: "action/gate_1/opening"
+      action_key: "opening" # This is the crucial fix
+      dt: 1.0
+      controller:
+        class: PIDController
+        config:
+          Kp: -0.5
+          Ki: -0.01
+          Kd: -0.1
+          setpoint: 12.0
+          min_output: 0.0
+          max_output: 1.0

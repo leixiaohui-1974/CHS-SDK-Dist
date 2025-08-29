@@ -1,0 +1,33 @@
+components:
+  - id: reservoir_1
+    class: Reservoir
+    initial_state:
+      water_level: 15.0
+      volume: 1.5e+7 # 15.0 * 1e6
+    parameters:
+      surface_area: 1.0e+6
+
+  - id: gate_1
+    class: Gate
+    initial_state:
+      opening: 0.25
+    parameters:
+      discharge_coefficient: 0.8
+      width: 12
+    action_topic: "action/gate_1/opening"
+
+  - id: channel_1
+    class: RiverChannel
+    initial_state:
+      volume: 500000
+    parameters:
+      k: 0.0001
+
+  - id: gate_2
+    class: Gate
+    initial_state:
+      opening: 0.5
+    parameters:
+      discharge_coefficient: 0.7
+      width: 10
+    action_topic: "action/gate_2/opening"

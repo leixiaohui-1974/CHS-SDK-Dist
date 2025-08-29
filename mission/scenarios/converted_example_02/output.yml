@@ -1,0 +1,7001 @@
+simulation_history:
+- time: 0.0
+  reservoir_1:
+    water_level: 14.999967062065638
+    volume: 14999967.062065639
+    outflow: 0
+  gate_1:
+    opening: 0.2
+    outflow: 32.93789819785847
+  channel_1:
+    volume: 499982.93789819785
+    outflow: 50.0
+  gate_2:
+    opening: 0.55
+    outflow: 0
+- time: 1.0
+  reservoir_1:
+    water_level: 14.99994235864199
+    volume: 14999942.35864199
+    outflow: 0
+  gate_1:
+    opening: 0.15000000000000002
+    outflow: 24.703403306369477
+  channel_1:
+    volume: 499957.6430077144
+    outflow: 49.99829378981979
+  gate_2:
+    opening: 0.6000000000000001
+    outflow: 0
+- time: 2.0
+  reservoir_1:
+    water_level: 14.999925889706452
+    volume: 14999925.889706451
+    outflow: 0
+  gate_1:
+    opening: 0.10000000000000002
+    outflow: 16.46892649668117
+  channel_1:
+    volume: 499924.11616991035
+    outflow: 49.99576430077144
+  gate_2:
+    opening: 0.6500000000000001
+    outflow: 0
+- time: 3.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.05000000000000002
+    outflow: 8.234460988116277
+  channel_1:
+    volume: 499882.3582192815
+    outflow: 49.992411616991035
+  gate_2:
+    opening: 0.7000000000000002
+    outflow: 0
+- time: 4.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 1.3877787807814457e-17
+    outflow: 2.2855220460960762e-15
+  channel_1:
+    volume: 499832.36998345953
+    outflow: 49.98823582192815
+  gate_2:
+    opening: 0.7500000000000002
+    outflow: 0
+- time: 5.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499782.3867464612
+    outflow: 49.98323699834596
+  gate_2:
+    opening: 0.8000000000000003
+    outflow: 0
+- time: 6.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499732.4085077866
+    outflow: 49.97823867464612
+  gate_2:
+    opening: 0.8500000000000003
+    outflow: 0
+- time: 7.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499682.4352669358
+    outflow: 49.97324085077866
+  gate_2:
+    opening: 0.9000000000000004
+    outflow: 0
+- time: 8.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499632.4670234091
+    outflow: 49.968243526693584
+  gate_2:
+    opening: 0.9500000000000004
+    outflow: 0
+- time: 9.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499582.50377670676
+    outflow: 49.96324670234091
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 10.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499532.5455263291
+    outflow: 49.95825037767068
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 11.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499482.59227177646
+    outflow: 49.95325455263291
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 12.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499432.6440125493
+    outflow: 49.94825922717765
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 13.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499382.7007481481
+    outflow: 49.943264401254936
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 14.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499332.76247807324
+    outflow: 49.93827007481481
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 15.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499282.8292018254
+    outflow: 49.93327624780733
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 16.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499232.9009189053
+    outflow: 49.928282920182546
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 17.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499182.97762881336
+    outflow: 49.92329009189053
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 18.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499133.0593310505
+    outflow: 49.91829776288134
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 19.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499083.14602511737
+    outflow: 49.91330593310505
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 20.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 499033.23771051486
+    outflow: 49.90831460251174
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 21.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498983.33438674384
+    outflow: 49.90332377105149
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 22.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498933.43605330517
+    outflow: 49.898333438674385
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 23.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498883.54270969983
+    outflow: 49.89334360533052
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 24.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498833.6543554289
+    outflow: 49.888354270969984
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 25.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498783.77098999335
+    outflow: 49.88336543554289
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 26.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498733.89261289436
+    outflow: 49.87837709899934
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 27.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498684.01922363305
+    outflow: 49.87338926128944
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 28.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498634.1508217107
+    outflow: 49.868401922363304
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 29.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498584.28740662854
+    outflow: 49.86341508217107
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 30.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498534.4289778879
+    outflow: 49.85842874066286
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 31.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498484.5755349901
+    outflow: 49.853442897788796
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 32.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498434.72707743663
+    outflow: 49.84845755349902
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 33.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498384.8836047289
+    outflow: 49.843472707743665
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 34.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498335.04511636845
+    outflow: 49.838488360472894
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 35.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498285.2116118568
+    outflow: 49.833504511636846
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 36.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498235.38309069566
+    outflow: 49.828521161185684
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 37.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498185.5595523866
+    outflow: 49.82353830906957
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 38.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498135.7409964313
+    outflow: 49.81855595523866
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 39.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498085.9274223317
+    outflow: 49.813574099643134
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 40.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 498036.11882958945
+    outflow: 49.808592742233174
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 41.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497986.3152177065
+    outflow: 49.80361188295895
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 42.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497936.51658618473
+    outflow: 49.79863152177065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 43.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497886.7229345261
+    outflow: 49.79365165861847
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 44.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497836.9342622326
+    outflow: 49.78867229345261
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 45.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497787.1505688064
+    outflow: 49.783693426223266
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 46.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497737.3718537495
+    outflow: 49.77871505688064
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 47.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497687.5981165641
+    outflow: 49.773737185374955
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 48.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497637.82935675245
+    outflow: 49.76875981165641
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 49.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497588.06557381677
+    outflow: 49.763782935675245
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 50.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497538.3067672594
+    outflow: 49.75880655738168
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 51.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497488.55293658265
+    outflow: 49.75383067672594
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 52.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497438.804081289
+    outflow: 49.748855293658266
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 53.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497389.06020088086
+    outflow: 49.7438804081289
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 54.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497339.3212948608
+    outflow: 49.73890602008809
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 55.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497289.5873627313
+    outflow: 49.733932129486085
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 56.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497239.858403995
+    outflow: 49.72895873627313
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 57.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497190.1344181546
+    outflow: 49.7239858403995
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 58.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497140.4154047128
+    outflow: 49.71901344181546
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 59.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497090.7013631723
+    outflow: 49.71404154047128
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 60.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 497040.992293036
+    outflow: 49.70907013631724
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 61.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496991.2881938067
+    outflow: 49.7040992293036
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 62.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496941.5890649873
+    outflow: 49.699128819380675
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 63.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496891.8949060808
+    outflow: 49.694158906498735
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 64.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496842.20571659016
+    outflow: 49.68918949060808
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 65.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496792.5214960185
+    outflow: 49.68422057165902
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 66.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496742.8422438689
+    outflow: 49.67925214960185
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 67.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496693.1679596445
+    outflow: 49.674284224386895
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 68.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496643.4986428486
+    outflow: 49.669316795964455
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 69.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496593.8342929843
+    outflow: 49.66434986428486
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 70.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496544.174909555
+    outflow: 49.65938342929843
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 71.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496494.52049206407
+    outflow: 49.6544174909555
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 72.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496444.87104001484
+    outflow: 49.64945204920641
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 73.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496395.2265529108
+    outflow: 49.644487104001485
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 74.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496345.5870302555
+    outflow: 49.63952265529108
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 75.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496295.9524715525
+    outflow: 49.634558703025554
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 76.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496246.3228763053
+    outflow: 49.62959524715525
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 77.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496196.69824401767
+    outflow: 49.62463228763053
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 78.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496147.0785741933
+    outflow: 49.61966982440177
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 79.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496097.46386633586
+    outflow: 49.61470785741933
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 80.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 496047.8541199492
+    outflow: 49.60974638663359
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 81.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495998.24933453725
+    outflow: 49.604785411994925
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 82.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495948.6495096038
+    outflow: 49.599824933453725
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 83.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495899.0546446528
+    outflow: 49.594864950960385
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 84.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495849.4647391884
+    outflow: 49.58990546446528
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 85.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495799.87979271443
+    outflow: 49.58494647391884
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 86.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495750.2998047352
+    outflow: 49.57998797927144
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 87.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495700.7247747547
+    outflow: 49.575029980473516
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 88.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495651.1547022773
+    outflow: 49.57007247747548
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 89.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495601.58958680707
+    outflow: 49.56511547022773
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 90.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495552.0294278484
+    outflow: 49.56015895868071
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 91.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495502.4742249056
+    outflow: 49.555202942784845
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 92.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495452.9239774831
+    outflow: 49.550247422490564
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 93.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495403.3786850854
+    outflow: 49.54529239774831
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 94.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495353.8383472169
+    outflow: 49.540337868508544
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 95.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495304.30296338216
+    outflow: 49.53538383472169
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 96.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495254.77253308584
+    outflow: 49.53043029633822
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 97.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495205.24705583253
+    outflow: 49.52547725330859
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 98.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495155.72653112694
+    outflow: 49.520524705583256
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 99.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495106.21095847385
+    outflow: 49.5155726531127
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 100.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495056.700337378
+    outflow: 49.51062109584739
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 101.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 495007.1946673443
+    outflow: 49.50567003373781
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 102.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494957.69394787756
+    outflow: 49.50071946673443
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 103.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494908.19817848277
+    outflow: 49.49576939478776
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 104.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494858.7073586649
+    outflow: 49.490819817848276
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 105.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494809.221487929
+    outflow: 49.48587073586649
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 106.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494759.7405657802
+    outflow: 49.4809221487929
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 107.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494710.2645917236
+    outflow: 49.475974056578025
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 108.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494660.79356526444
+    outflow: 49.471026459172364
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 109.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494611.32748590794
+    outflow: 49.46607935652644
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 110.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494561.86635315936
+    outflow: 49.4611327485908
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 111.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494512.41016652406
+    outflow: 49.45618663531594
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 112.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494462.9589255074
+    outflow: 49.45124101665241
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 113.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494413.51262961485
+    outflow: 49.446295892550744
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 114.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494364.0712783519
+    outflow: 49.44135126296149
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 115.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494314.63487122406
+    outflow: 49.43640712783519
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 116.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494265.20340773696
+    outflow: 49.43146348712241
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 117.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494215.7768873962
+    outflow: 49.4265203407737
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 118.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494166.35530970746
+    outflow: 49.42157768873962
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 119.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494116.9386741765
+    outflow: 49.41663553097075
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 120.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494067.5269803091
+    outflow: 49.411693867417654
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 121.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 494018.1202276111
+    outflow: 49.406752698030914
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 122.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493968.7184155883
+    outflow: 49.40181202276111
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 123.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493919.32154374674
+    outflow: 49.396871841558834
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 124.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493869.9296115924
+    outflow: 49.39193215437468
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 125.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493820.5426186312
+    outflow: 49.38699296115924
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 126.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493771.16056436935
+    outflow: 49.382054261863125
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 127.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493721.7834483129
+    outflow: 49.37711605643694
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 128.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493672.4112699681
+    outflow: 49.37217834483129
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 129.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493623.0440288411
+    outflow: 49.36724112699681
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 130.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493573.6817244382
+    outflow: 49.36230440288411
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 131.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493524.3243562658
+    outflow: 49.35736817244382
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 132.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493474.97192383016
+    outflow: 49.35243243562658
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 133.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493425.6244266378
+    outflow: 49.34749719238302
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 134.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493376.28186419513
+    outflow: 49.34256244266378
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 135.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493326.9442360087
+    outflow: 49.337628186419515
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 136.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493277.61154158507
+    outflow: 49.33269442360087
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 137.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493228.2837804309
+    outflow: 49.32776115415851
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 138.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493178.96095205285
+    outflow: 49.32282837804309
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 139.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493129.6430559576
+    outflow: 49.317896095205285
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 140.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493080.33009165205
+    outflow: 49.31296430559576
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 141.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 493031.0220586429
+    outflow: 49.30803300916521
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 142.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492981.718956437
+    outflow: 49.30310220586429
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 143.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492932.42078454135
+    outflow: 49.298171895643705
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 144.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492883.1275424629
+    outflow: 49.293242078454135
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 145.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492833.83922970865
+    outflow: 49.28831275424629
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 146.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492784.5558457857
+    outflow: 49.28338392297087
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 147.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492735.2773902011
+    outflow: 49.27845558457857
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 148.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492686.00386246206
+    outflow: 49.27352773902011
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 149.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492636.73526207585
+    outflow: 49.268600386246206
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 150.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492587.4715885496
+    outflow: 49.26367352620759
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 151.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492538.21284139075
+    outflow: 49.258747158854966
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 152.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492488.9590201066
+    outflow: 49.25382128413908
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 153.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492439.7101242046
+    outflow: 49.24889590201066
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 154.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492390.46615319216
+    outflow: 49.24397101242046
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 155.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492341.22710657684
+    outflow: 49.23904661531922
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 156.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492291.9929838662
+    outflow: 49.23412271065769
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 157.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492242.7637845678
+    outflow: 49.22919929838662
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 158.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492193.53950818937
+    outflow: 49.224276378456786
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 159.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492144.32015423855
+    outflow: 49.21935395081894
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 160.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492095.1057222231
+    outflow: 49.21443201542386
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 161.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 492045.8962116509
+    outflow: 49.209510572222314
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 162.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491996.69162202976
+    outflow: 49.20458962116509
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 163.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491947.49195286754
+    outflow: 49.19966916220298
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 164.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491898.29720367223
+    outflow: 49.194749195286754
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 165.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491849.1073739519
+    outflow: 49.18982972036723
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 166.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491799.9224632145
+    outflow: 49.18491073739519
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 167.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491750.74247096817
+    outflow: 49.179992246321454
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 168.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491701.56739672105
+    outflow: 49.175074247096816
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 169.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491652.3972399814
+    outflow: 49.17015673967211
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 170.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491603.2320002574
+    outflow: 49.16523972399814
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 171.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491554.07167705736
+    outflow: 49.16032320002574
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 172.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491504.9162698897
+    outflow: 49.15540716770574
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 173.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491455.7657782627
+    outflow: 49.15049162698897
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 174.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491406.6202016849
+    outflow: 49.14557657782627
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 175.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491357.4795396647
+    outflow: 49.14066202016849
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 176.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491308.34379171074
+    outflow: 49.13574795396647
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 177.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491259.21295733156
+    outflow: 49.13083437917108
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 178.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491210.08703603584
+    outflow: 49.12592129573316
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 179.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491160.96602733224
+    outflow: 49.121008703603586
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 180.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491111.8499307295
+    outflow: 49.11609660273323
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 181.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491062.7387457364
+    outflow: 49.11118499307295
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 182.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 491013.63247186184
+    outflow: 49.106273874573645
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 183.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490964.53110861464
+    outflow: 49.101363247186185
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 184.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490915.4346555038
+    outflow: 49.09645311086147
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 185.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490866.3431120382
+    outflow: 49.09154346555038
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 186.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490817.25647772703
+    outflow: 49.086634311203824
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 187.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490768.17475207924
+    outflow: 49.08172564777271
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 188.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490719.09793460404
+    outflow: 49.076817475207925
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 189.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490670.02602481056
+    outflow: 49.07190979346041
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 190.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490620.95902220806
+    outflow: 49.06700260248106
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 191.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490571.89692630584
+    outflow: 49.06209590222081
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 192.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490522.8397366132
+    outflow: 49.05718969263059
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 193.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490473.78745263955
+    outflow: 49.052283973661325
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 194.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490424.74007389427
+    outflow: 49.047378745263956
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 195.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490375.69759988686
+    outflow: 49.04247400738943
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 196.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490326.66003012686
+    outflow: 49.037569759988685
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 197.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490277.6273641238
+    outflow: 49.032666003012686
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 198.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490228.5996013874
+    outflow: 49.027762736412384
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 199.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490179.57674142724
+    outflow: 49.02285996013874
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 200.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490130.5587837531
+    outflow: 49.01795767414273
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 201.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490081.5457278747
+    outflow: 49.01305587837531
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 202.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 490032.5375733019
+    outflow: 49.00815457278747
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 203.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489983.53431954456
+    outflow: 49.00325375733019
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 204.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489934.5359661126
+    outflow: 48.998353431954456
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 205.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489885.542512516
+    outflow: 48.99345359661127
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 206.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489836.55395826476
+    outflow: 48.98855425125161
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 207.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489787.57030286896
+    outflow: 48.98365539582648
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 208.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489738.5915458387
+    outflow: 48.9787570302869
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 209.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489689.6176866841
+    outflow: 48.97385915458387
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 210.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489640.64872491546
+    outflow: 48.968961768668414
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 211.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489591.684660043
+    outflow: 48.96406487249155
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 212.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489542.725491577
+    outflow: 48.9591684660043
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 213.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489493.77121902787
+    outflow: 48.9542725491577
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 214.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489444.82184190594
+    outflow: 48.94937712190279
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 215.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489395.87735972175
+    outflow: 48.9444821841906
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 216.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489346.9377719858
+    outflow: 48.939587735972175
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 217.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489298.0030782086
+    outflow: 48.93469377719858
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 218.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489249.07327790075
+    outflow: 48.92980030782086
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 219.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489200.14837057295
+    outflow: 48.92490732779008
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 220.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489151.2283557359
+    outflow: 48.920014837057295
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 221.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489102.31323290034
+    outflow: 48.91512283557359
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 222.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489053.40300157707
+    outflow: 48.910231323290034
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 223.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 489004.4976612769
+    outflow: 48.90534030015771
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 224.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488955.59721151076
+    outflow: 48.90044976612769
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 225.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488906.7016517896
+    outflow: 48.89555972115108
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 226.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488857.8109816244
+    outflow: 48.89067016517896
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 227.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488808.92520052625
+    outflow: 48.88578109816245
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 228.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488760.0443080062
+    outflow: 48.880892520052626
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 229.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488711.16830357537
+    outflow: 48.87600443080062
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 230.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488662.297186745
+    outflow: 48.871116830357536
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 231.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488613.4309570263
+    outflow: 48.866229718674504
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 232.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488564.5696139306
+    outflow: 48.86134309570264
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 233.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488515.7131569692
+    outflow: 48.856456961393064
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 234.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488466.8615856535
+    outflow: 48.85157131569692
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 235.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488418.01489949494
+    outflow: 48.846686158565355
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 236.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488369.173098005
+    outflow: 48.841801489949496
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 237.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488320.3361806952
+    outflow: 48.836917309800505
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 238.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488271.50414707715
+    outflow: 48.832033618069524
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 239.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488222.67699666246
+    outflow: 48.82715041470772
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 240.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488173.8547289628
+    outflow: 48.82226769966625
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 241.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488125.03734348994
+    outflow: 48.817385472896284
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 242.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488076.22483975557
+    outflow: 48.812503734348994
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 243.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 488027.4172172716
+    outflow: 48.80762248397556
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 244.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487978.61447554984
+    outflow: 48.80274172172716
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 245.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487929.8166141023
+    outflow: 48.797861447554986
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 246.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487881.0236324409
+    outflow: 48.79298166141023
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 247.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487832.23553007765
+    outflow: 48.78810236324409
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 248.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487783.4523065246
+    outflow: 48.783223553007765
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 249.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487734.67396129394
+    outflow: 48.77834523065246
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 250.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487685.9004938978
+    outflow: 48.7734673961294
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 251.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487637.1319038484
+    outflow: 48.76859004938978
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 252.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487588.368190658
+    outflow: 48.76371319038484
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 253.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487539.6093538389
+    outflow: 48.7588368190658
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 254.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487490.8553929035
+    outflow: 48.753960935383894
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 255.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487442.1063073642
+    outflow: 48.749085539290355
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 256.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487393.3620967335
+    outflow: 48.74421063073642
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 257.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487344.6227605238
+    outflow: 48.73933620967335
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 258.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487295.88829824777
+    outflow: 48.73446227605238
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 259.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487247.15870941797
+    outflow: 48.72958882982478
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 260.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487198.43399354705
+    outflow: 48.7247158709418
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 261.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487149.7141501477
+    outflow: 48.71984339935471
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 262.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487100.9991787327
+    outflow: 48.71497141501477
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 263.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487052.2890788148
+    outflow: 48.71009991787327
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 264.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 487003.5838499069
+    outflow: 48.705228907881484
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 265.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486954.88349152193
+    outflow: 48.70035838499069
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 266.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486906.1880031728
+    outflow: 48.69548834915219
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 267.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486857.4973843725
+    outflow: 48.69061880031728
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 268.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486808.8116346341
+    outflow: 48.68574973843725
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 269.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486760.13075347064
+    outflow: 48.68088116346341
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 270.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486711.4547403953
+    outflow: 48.676013075347065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 271.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486662.7835949213
+    outflow: 48.671145474039534
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 272.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486614.1173165618
+    outflow: 48.66627835949213
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 273.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486565.45590483013
+    outflow: 48.66141173165618
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 274.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486516.79935923964
+    outflow: 48.65654559048301
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 275.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486468.1476793037
+    outflow: 48.651679935923966
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 276.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486419.5008645358
+    outflow: 48.64681476793037
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 277.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486370.85891444935
+    outflow: 48.64195008645358
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 278.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486322.2218285579
+    outflow: 48.63708589144494
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 279.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486273.589606375
+    outflow: 48.63222218285579
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 280.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486224.9622474144
+    outflow: 48.62735896063751
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 281.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486176.33975118963
+    outflow: 48.62249622474144
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 282.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486127.7221172145
+    outflow: 48.61763397511896
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 283.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486079.1093450028
+    outflow: 48.612772211721456
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 284.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 486030.5014340683
+    outflow: 48.60791093450028
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 285.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485981.8983839249
+    outflow: 48.60305014340683
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 286.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485933.3001940865
+    outflow: 48.59818983839249
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 287.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485884.7068640671
+    outflow: 48.593330019408654
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 288.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485836.1183933807
+    outflow: 48.588470686406716
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 289.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485787.5347815414
+    outflow: 48.583611839338076
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 290.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485738.95602806326
+    outflow: 48.57875347815414
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 291.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485690.3821324605
+    outflow: 48.57389560280633
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 292.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485641.81309424725
+    outflow: 48.56903821324605
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 293.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485593.2489129378
+    outflow: 48.564181309424725
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 294.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485544.6895880465
+    outflow: 48.559324891293784
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 295.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485496.1351190877
+    outflow: 48.554468958804655
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 296.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485447.5855055758
+    outflow: 48.549613511908774
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 297.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485399.0407470253
+    outflow: 48.54475855055758
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 298.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485350.5008429506
+    outflow: 48.539904074702534
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 299.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485301.9657928663
+    outflow: 48.535050084295065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 300.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485253.435596287
+    outflow: 48.53019657928663
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 301.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485204.9102527274
+    outflow: 48.5253435596287
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 302.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485156.3897617021
+    outflow: 48.52049102527274
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 303.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485107.8741227259
+    outflow: 48.515638976170216
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 304.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485059.3633353136
+    outflow: 48.51078741227259
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 305.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 485010.85739898006
+    outflow: 48.505936333531366
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 306.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484962.3563132402
+    outflow: 48.50108573989801
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 307.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484913.86007760884
+    outflow: 48.49623563132402
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 308.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484865.3686916011
+    outflow: 48.49138600776089
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 309.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484816.88215473195
+    outflow: 48.48653686916011
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 310.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484768.4004665165
+    outflow: 48.4816882154732
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 311.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484719.92362646986
+    outflow: 48.47684004665165
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 312.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484671.4516341072
+    outflow: 48.471992362646986
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 313.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484622.9844889438
+    outflow: 48.46714516341073
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 314.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484574.5221904949
+    outflow: 48.46229844889439
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 315.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484526.0647382759
+    outflow: 48.45745221904949
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 316.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484477.6121318021
+    outflow: 48.45260647382759
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 317.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484429.1643705889
+    outflow: 48.44776121318021
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 318.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484380.72145415185
+    outflow: 48.44291643705889
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 319.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484332.28338200646
+    outflow: 48.438072145415184
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 320.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484283.85015366826
+    outflow: 48.43322833820065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 321.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484235.4217686529
+    outflow: 48.42838501536683
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 322.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484186.9982264761
+    outflow: 48.4235421768653
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 323.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484138.57952665346
+    outflow: 48.41869982264761
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 324.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484090.16566870076
+    outflow: 48.413857952665346
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 325.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 484041.7566521339
+    outflow: 48.40901656687008
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 326.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483993.35247646866
+    outflow: 48.404175665213394
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 327.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483944.953141221
+    outflow: 48.39933524764687
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 328.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483896.5586459069
+    outflow: 48.3944953141221
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 329.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483848.16899004235
+    outflow: 48.389655864590694
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 330.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483799.7841731433
+    outflow: 48.384816899004235
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 331.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483751.404194726
+    outflow: 48.379978417314334
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 332.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483703.02905430656
+    outflow: 48.37514041947261
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 333.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483654.6587514011
+    outflow: 48.370302905430655
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 334.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483606.293285526
+    outflow: 48.36546587514012
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 335.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483557.93265619746
+    outflow: 48.3606293285526
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 336.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483509.57686293183
+    outflow: 48.355793265619745
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 337.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483461.2259052455
+    outflow: 48.350957686293185
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 338.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483412.879782655
+    outflow: 48.34612259052455
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 339.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483364.5384946767
+    outflow: 48.3412879782655
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 340.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483316.20204082725
+    outflow: 48.336453849467674
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 341.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483267.87042062316
+    outflow: 48.331620204082725
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 342.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483219.5436335811
+    outflow: 48.32678704206232
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 343.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483171.2216792177
+    outflow: 48.32195436335811
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 344.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483122.9045570498
+    outflow: 48.317122167921774
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 345.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483074.5922665941
+    outflow: 48.31229045570498
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 346.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 483026.2848073675
+    outflow: 48.30745922665941
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 347.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482977.98217888677
+    outflow: 48.30262848073675
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 348.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482929.68438066886
+    outflow: 48.297798217888676
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 349.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482881.3914122308
+    outflow: 48.292968438066886
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 350.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482833.10327308957
+    outflow: 48.288139141223084
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 351.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482784.81996276224
+    outflow: 48.28331032730896
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 352.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482736.54148076597
+    outflow: 48.27848199627623
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 353.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482688.26782661787
+    outflow: 48.2736541480766
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 354.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482639.9989998352
+    outflow: 48.26882678266179
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 355.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482591.73499993526
+    outflow: 48.263999899983524
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 356.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482543.47582643526
+    outflow: 48.25917349999353
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 357.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482495.2214788526
+    outflow: 48.254347582643526
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 358.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482446.97195670474
+    outflow: 48.249522147885266
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 359.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482398.7272595091
+    outflow: 48.244697195670476
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 360.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482350.4873867831
+    outflow: 48.23987272595091
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 361.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482302.25233804446
+    outflow: 48.235048738678316
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 362.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482254.02211281064
+    outflow: 48.23022523380445
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 363.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482205.79671059933
+    outflow: 48.225402211281065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 364.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482157.5761309283
+    outflow: 48.22057967105994
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 365.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482109.3603733152
+    outflow: 48.21575761309283
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 366.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482061.14943727787
+    outflow: 48.21093603733153
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 367.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 482012.94332233415
+    outflow: 48.20611494372779
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 368.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481964.7420280019
+    outflow: 48.20129433223342
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 369.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481916.54555379914
+    outflow: 48.1964742028002
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 370.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481868.35389924375
+    outflow: 48.19165455537991
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 371.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481820.1670638538
+    outflow: 48.186835389924376
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 372.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481771.98504714743
+    outflow: 48.18201670638538
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 373.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481723.8078486427
+    outflow: 48.177198504714745
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 374.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481675.6354678578
+    outflow: 48.17238078486427
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 375.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481627.467904311
+    outflow: 48.167563546785786
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 376.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481579.3051575206
+    outflow: 48.16274679043111
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 377.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481531.1472270048
+    outflow: 48.15793051575206
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 378.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481482.9941122821
+    outflow: 48.15311472270049
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 379.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481434.8458128709
+    outflow: 48.148299411228216
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 380.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481386.7023282896
+    outflow: 48.14348458128709
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 381.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481338.5636580568
+    outflow: 48.138670232828964
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 382.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481290.429801691
+    outflow: 48.13385636580568
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 383.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481242.30075871083
+    outflow: 48.129042980169096
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 384.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481194.17652863497
+    outflow: 48.12423007587108
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 385.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481146.05711098213
+    outflow: 48.1194176528635
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 386.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481097.94250527106
+    outflow: 48.114605711098214
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 387.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481049.83271102054
+    outflow: 48.10979425052711
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 388.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 481001.72772774944
+    outflow: 48.10498327110206
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 389.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480953.6275549767
+    outflow: 48.10017277277495
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 390.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480905.5321922212
+    outflow: 48.09536275549767
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 391.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480857.441639002
+    outflow: 48.09055321922212
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 392.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480809.3558948381
+    outflow: 48.0857441639002
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 393.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480761.2749592486
+    outflow: 48.080935589483815
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 394.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480713.1988317527
+    outflow: 48.076127495924865
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 395.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480665.12751186953
+    outflow: 48.07131988317527
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 396.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480617.0609991184
+    outflow: 48.066512751186956
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 397.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480568.9992930185
+    outflow: 48.06170609991184
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 398.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480520.9423930892
+    outflow: 48.05689992930185
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 399.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480472.89029884984
+    outflow: 48.05209423930892
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 400.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480424.84300982
+    outflow: 48.047289029884986
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 401.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480376.800525519
+    outflow: 48.042484300982
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 402.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480328.76284546644
+    outflow: 48.037680052551906
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 403.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480280.7299691819
+    outflow: 48.032876284546646
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 404.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480232.70189618494
+    outflow: 48.02807299691819
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 405.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480184.6786259953
+    outflow: 48.02327018961849
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 406.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480136.66015813267
+    outflow: 48.01846786259953
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 407.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480088.64649211685
+    outflow: 48.01366601581327
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 408.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 480040.63762746763
+    outflow: 48.00886464921169
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 409.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479992.6335637049
+    outflow: 48.00406376274677
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 410.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479944.6343003485
+    outflow: 47.99926335637049
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 411.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479896.6398369185
+    outflow: 47.994463430034855
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 412.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479848.6501729348
+    outflow: 47.989663983691855
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 413.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479800.6653079175
+    outflow: 47.98486501729349
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 414.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479752.6852413867
+    outflow: 47.98006653079175
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 415.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479704.70997286256
+    outflow: 47.97526852413867
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 416.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479656.7395018653
+    outflow: 47.970470997286256
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 417.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479608.7738279151
+    outflow: 47.965673950186535
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 418.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479560.8129505323
+    outflow: 47.96087738279151
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 419.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479512.85686923726
+    outflow: 47.95608129505323
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 420.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479464.90558355034
+    outflow: 47.951285686923725
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 421.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479416.959092992
+    outflow: 47.94649055835504
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 422.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479369.0173970827
+    outflow: 47.941695909299206
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 423.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479321.080495343
+    outflow: 47.936901739708276
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 424.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479273.1483872935
+    outflow: 47.93210804953431
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 425.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479225.22107245476
+    outflow: 47.92731483872935
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 426.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479177.2985503475
+    outflow: 47.92252210724548
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 427.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479129.38082049246
+    outflow: 47.91772985503475
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 428.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479081.4678824104
+    outflow: 47.91293808204925
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 429.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 479033.55973562214
+    outflow: 47.90814678824104
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 430.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478985.6563796486
+    outflow: 47.90335597356221
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 431.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478937.75781401066
+    outflow: 47.898565637964865
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 432.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478889.8640382293
+    outflow: 47.89377578140107
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 433.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478841.97505182546
+    outflow: 47.88898640382293
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 434.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478794.09085432027
+    outflow: 47.88419750518255
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 435.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478746.21144523483
+    outflow: 47.87940908543203
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 436.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478698.33682409034
+    outflow: 47.87462114452349
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 437.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478650.4669904079
+    outflow: 47.86983368240904
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 438.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478602.60194370884
+    outflow: 47.865046699040796
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 439.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478554.7416835145
+    outflow: 47.86026019437089
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 440.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478506.8862093461
+    outflow: 47.85547416835145
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 441.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478459.0355207252
+    outflow: 47.85068862093461
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 442.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478411.1896171731
+    outflow: 47.84590355207252
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 443.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478363.3484982114
+    outflow: 47.841118961717314
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 444.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478315.5121633616
+    outflow: 47.83633484982114
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 445.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478267.6806121453
+    outflow: 47.83155121633616
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 446.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478219.8538440841
+    outflow: 47.82676806121453
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 447.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478172.0318586997
+    outflow: 47.82198538440841
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 448.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478124.2146555138
+    outflow: 47.81720318586997
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 449.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478076.4022340483
+    outflow: 47.81242146555138
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 450.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 478028.5945938249
+    outflow: 47.80764022340483
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 451.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477980.7917343655
+    outflow: 47.80285945938249
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 452.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477932.9936551921
+    outflow: 47.798079173436555
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 453.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477885.2003558266
+    outflow: 47.79329936551921
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 454.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477837.411835791
+    outflow: 47.788520035582664
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 455.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477789.62809460744
+    outflow: 47.7837411835791
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 456.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477741.84913179796
+    outflow: 47.778962809460744
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 457.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477694.07494688476
+    outflow: 47.7741849131798
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 458.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477646.3055393901
+    outflow: 47.76940749468848
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 459.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477598.5409088361
+    outflow: 47.76463055393901
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 460.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477550.78105474525
+    outflow: 47.759854090883614
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 461.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477503.02597663976
+    outflow: 47.755078105474524
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 462.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477455.2756740421
+    outflow: 47.75030259766398
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 463.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477407.5301464747
+    outflow: 47.74552756740422
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 464.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477359.7893934601
+    outflow: 47.740753014647474
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 465.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477312.05341452075
+    outflow: 47.73597893934601
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 466.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477264.3222091793
+    outflow: 47.731205341452075
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 467.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477216.5957769584
+    outflow: 47.72643222091793
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 468.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477168.8741173807
+    outflow: 47.72165957769584
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 469.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477121.157229969
+    outflow: 47.71688741173807
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 470.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477073.445114246
+    outflow: 47.7121157229969
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 471.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 477025.7377697346
+    outflow: 47.7073445114246
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 472.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476978.0351959576
+    outflow: 47.70257377697346
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 473.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476930.33739243797
+    outflow: 47.69780351959576
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 474.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476882.64435869874
+    outflow: 47.6930337392438
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 475.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476834.9560942629
+    outflow: 47.688264435869876
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 476.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476787.27259865345
+    outflow: 47.68349560942629
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 477.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476739.5938713936
+    outflow: 47.67872725986535
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 478.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476691.9199120065
+    outflow: 47.67395938713936
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 479.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476644.25072001526
+    outflow: 47.66919199120065
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 480.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476596.58629494323
+    outflow: 47.66442507200153
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 481.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476548.9266363137
+    outflow: 47.659658629494324
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 482.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476501.2717436501
+    outflow: 47.65489266363137
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 483.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476453.6216164757
+    outflow: 47.65012717436501
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 484.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476405.97625431407
+    outflow: 47.64536216164757
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 485.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476358.33565668867
+    outflow: 47.64059762543141
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 486.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476310.699823123
+    outflow: 47.63583356566887
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 487.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476263.0687531407
+    outflow: 47.631069982312304
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 488.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476215.44244626537
+    outflow: 47.62630687531407
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 489.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476167.8209020207
+    outflow: 47.62154424462654
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 490.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476120.2041199305
+    outflow: 47.61678209020207
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 491.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476072.5920995185
+    outflow: 47.61202041199305
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 492.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 476024.98484030855
+    outflow: 47.607259209951856
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 493.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475977.38234182453
+    outflow: 47.60249848403086
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 494.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475929.7846035903
+    outflow: 47.59773823418246
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 495.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475882.19162512996
+    outflow: 47.592978460359035
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 496.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475834.6034059675
+    outflow: 47.588219162513
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 497.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475787.01994562685
+    outflow: 47.58346034059675
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 498.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475739.4412436323
+    outflow: 47.578701994562685
+  gate_2:
+    opening: 1.0
+    outflow: 0
+- time: 499.0
+  reservoir_1:
+    water_level: 14.999917655243204
+    volume: 14999917.655243203
+    outflow: 0
+  gate_1:
+    opening: 0.0
+    outflow: 0.0
+  channel_1:
+    volume: 475691.86729950795
+    outflow: 47.57394412436323
+  gate_2:
+    opening: 1.0
+    outflow: 0
