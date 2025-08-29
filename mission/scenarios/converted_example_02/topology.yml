@@ -1,0 +1,7 @@
+connections:
+  - upstream: reservoir_1
+    downstream: gate_1
+  - upstream: gate_1
+    downstream: channel_1
+  - upstream: channel_1
+    downstream: gate_2

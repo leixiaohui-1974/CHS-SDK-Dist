@@ -1,0 +1,50 @@
+agents:
+  # --- Control Loop 1: Reservoir Level ---
+  - id: reservoir_twin_1
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_1
+      state_topic: "state/reservoir_1/level"
+
+  - id: gate_controller_1
+    class: LocalControlAgent
+    config:
+      observation_topic: "state/reservoir_1/level"
+      observation_key: "water_level"
+      action_topic: "action/gate_1/opening"
+      action_key: "opening"
+      dt: 1.0
+      controller:
+        class: PIDController
+        config:
+          Kp: -0.2
+          Ki: -0.01
+          Kd: -0.05
+          setpoint: 18.0
+          min_output: 0.0
+          max_output: 1.0
+
+  # --- Control Loop 2: Channel Volume ---
+  - id: channel_twin_1
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: channel_1
+      state_topic: "state/channel_1/volume"
+
+  - id: gate_controller_2
+    class: LocalControlAgent
+    config:
+      observation_topic: "state/channel_1/volume"
+      observation_key: "volume"
+      action_topic: "action/gate_2/opening"
+      action_key: "opening"
+      dt: 1.0
+      controller:
+        class: PIDController
+        config:
+          Kp: -1.0e-5
+          Ki: -1.0e-7
+          Kd: -1.0e-6
+          setpoint: 400000.0 # 4e5
+          min_output: 0.0
+          max_output: 1.0
