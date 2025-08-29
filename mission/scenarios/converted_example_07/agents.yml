@@ -1,0 +1,26 @@
+# Agents and Controllers Definition
+agents:
+  - id: task_manager
+    class: TaskManagerAgent
+    config:
+      tasks: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+      task_topic: "tasks_todo"
+      result_topic: "tasks_done"
+
+  - id: worker_1
+    class: WorkerAgent
+    config:
+      task_topic: "tasks_todo"
+      result_topic: "tasks_done"
+
+  - id: worker_2
+    class: WorkerAgent
+    config:
+      task_topic: "tasks_todo"
+      result_topic: "tasks_done"
+
+  - id: worker_3
+    class: WorkerAgent
+    config:
+      task_topic: "tasks_todo"
+      result_topic: "tasks_done"

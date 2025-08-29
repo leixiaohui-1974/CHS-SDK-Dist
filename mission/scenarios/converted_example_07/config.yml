@@ -1,0 +1,4 @@
+# Simulation Configuration
+simulation:
+  duration: 60  # Failsafe duration, but simulation should end on its own
+  dt: 1.0       # Time step
