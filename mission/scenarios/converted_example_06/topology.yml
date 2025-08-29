@@ -1,0 +1,6 @@
+# System Topology Definition
+connections:
+  - upstream: reservoir_A
+    downstream: gate_A
+  - upstream: reservoir_B
+    downstream: gate_B

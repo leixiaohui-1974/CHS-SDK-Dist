@@ -1,0 +1,33 @@
+# Physical Components Definition
+components:
+  - id: reservoir_A
+    class: Reservoir
+    initial_state:
+      water_level: 50.0
+      volume: 500000.0
+    parameters:
+      surface_area: 10000.0
+
+  - id: gate_A
+    class: Gate
+    initial_state:
+      opening: 0.0
+    parameters:
+      width: 5.0
+      discharge_coefficient: 0.8
+
+  - id: reservoir_B
+    class: Reservoir
+    initial_state:
+      water_level: 50.0
+      volume: 500000.0
+    parameters:
+      surface_area: 10000.0
+
+  - id: gate_B
+    class: Gate
+    initial_state:
+      opening: 0.0
+    parameters:
+      width: 5.0
+      discharge_coefficient: 0.8

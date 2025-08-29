@@ -1,0 +1,37 @@
+# Agents and Controllers Definition
+agents:
+  # Sensor agent for the first reservoir
+  - id: sensor_agent_1
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_1
+      state_topic: "state/reservoir_1"
+
+  # Sensor agent for the second reservoir
+  - id: sensor_agent_2
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: reservoir_2
+      state_topic: "state/reservoir_2"
+
+  # Inflow agents to provide a constant inflow to the reservoirs
+  - id: inflow_agent_1
+    class: ConstantInflowAgent
+    config:
+      target_component_id: reservoir_1
+      inflow_rate: 5.0 # m^3/s
+
+  - id: inflow_agent_2
+    class: ConstantInflowAgent
+    config:
+      target_component_id: reservoir_2
+      inflow_rate: 3.0 # m^3/s
+
+  # A central agent to aggregate data.
+  # This agent's logic is defined and registered in the run.py script.
+  - id: data_aggregator
+    class: DataAggregator
+    config:
+      subscribed_topics:
+        - "state/reservoir_1"
+        - "state/reservoir_2"
