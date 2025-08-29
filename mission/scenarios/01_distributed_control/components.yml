@@ -1,0 +1,29 @@
+components:
+  - id: central_reservoir
+    class: Reservoir
+    initial_state:
+      water_level: 10.0
+    parameters:
+      surface_area: 1000.0
+
+  - id: gate_1
+    class: Gate
+    initial_state:
+      opening: 0.0
+    parameters:
+      width: 5.0
+      discharge_coefficient: 0.6
+    config:
+      action_topic: "gate/1/command"
+      action_key: "new_setpoint"
+
+  - id: gate_2
+    class: Gate
+    initial_state:
+      opening: 0.0
+    parameters:
+      width: 5.0
+      discharge_coefficient: 0.6
+    config:
+      action_topic: "gate/2/command"
+      action_key: "new_setpoint"

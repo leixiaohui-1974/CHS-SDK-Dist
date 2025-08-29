@@ -1,0 +1,1101 @@
+simulation_history:
+- time: 0.0
+  central_reservoir:
+    water_level: 10.05
+    outflow: 0
+    volume: 10050.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 1.0
+  central_reservoir:
+    water_level: 10.1
+    outflow: 0
+    volume: 10100.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 2.0
+  central_reservoir:
+    water_level: 10.15
+    outflow: 0
+    volume: 10150.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 3.0
+  central_reservoir:
+    water_level: 10.2
+    outflow: 0
+    volume: 10200.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 4.0
+  central_reservoir:
+    water_level: 10.25
+    outflow: 0
+    volume: 10250.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 5.0
+  central_reservoir:
+    water_level: 10.3
+    outflow: 0
+    volume: 10300.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 6.0
+  central_reservoir:
+    water_level: 10.35
+    outflow: 0
+    volume: 10350.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 7.0
+  central_reservoir:
+    water_level: 10.4
+    outflow: 0
+    volume: 10400.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 8.0
+  central_reservoir:
+    water_level: 10.45
+    outflow: 0
+    volume: 10450.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 9.0
+  central_reservoir:
+    water_level: 10.5
+    outflow: 0
+    volume: 10500.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 10.0
+  central_reservoir:
+    water_level: 10.55
+    outflow: 0
+    volume: 10550.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 11.0
+  central_reservoir:
+    water_level: 10.6
+    outflow: 0
+    volume: 10600.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 12.0
+  central_reservoir:
+    water_level: 10.65
+    outflow: 0
+    volume: 10650.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 13.0
+  central_reservoir:
+    water_level: 10.7
+    outflow: 0
+    volume: 10700.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 14.0
+  central_reservoir:
+    water_level: 10.75
+    outflow: 0
+    volume: 10750.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 15.0
+  central_reservoir:
+    water_level: 10.8
+    outflow: 0
+    volume: 10800.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 16.0
+  central_reservoir:
+    water_level: 10.85
+    outflow: 0
+    volume: 10850.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 17.0
+  central_reservoir:
+    water_level: 10.9
+    outflow: 0
+    volume: 10900.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 18.0
+  central_reservoir:
+    water_level: 10.95
+    outflow: 0
+    volume: 10950.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 19.0
+  central_reservoir:
+    water_level: 11.0
+    outflow: 0
+    volume: 11000.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 20.0
+  central_reservoir:
+    water_level: 11.05
+    outflow: 0
+    volume: 11050.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 21.0
+  central_reservoir:
+    water_level: 11.1
+    outflow: 0
+    volume: 11100.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 22.0
+  central_reservoir:
+    water_level: 11.15
+    outflow: 0
+    volume: 11150.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 23.0
+  central_reservoir:
+    water_level: 11.2
+    outflow: 0
+    volume: 11200.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 24.0
+  central_reservoir:
+    water_level: 11.25
+    outflow: 0
+    volume: 11250.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 25.0
+  central_reservoir:
+    water_level: 11.3
+    outflow: 0
+    volume: 11300.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 26.0
+  central_reservoir:
+    water_level: 11.35
+    outflow: 0
+    volume: 11350.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 27.0
+  central_reservoir:
+    water_level: 11.4
+    outflow: 0
+    volume: 11400.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 28.0
+  central_reservoir:
+    water_level: 11.45
+    outflow: 0
+    volume: 11450.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 29.0
+  central_reservoir:
+    water_level: 11.5
+    outflow: 0
+    volume: 11500.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 30.0
+  central_reservoir:
+    water_level: 11.55
+    outflow: 0
+    volume: 11550.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 31.0
+  central_reservoir:
+    water_level: 11.6
+    outflow: 0
+    volume: 11600.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 32.0
+  central_reservoir:
+    water_level: 11.65
+    outflow: 0
+    volume: 11650.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 33.0
+  central_reservoir:
+    water_level: 11.7
+    outflow: 0
+    volume: 11700.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 34.0
+  central_reservoir:
+    water_level: 11.75
+    outflow: 0
+    volume: 11750.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 35.0
+  central_reservoir:
+    water_level: 11.8
+    outflow: 0
+    volume: 11800.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 36.0
+  central_reservoir:
+    water_level: 11.85
+    outflow: 0
+    volume: 11850.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 37.0
+  central_reservoir:
+    water_level: 11.9
+    outflow: 0
+    volume: 11900.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 38.0
+  central_reservoir:
+    water_level: 11.95
+    outflow: 0
+    volume: 11950.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 39.0
+  central_reservoir:
+    water_level: 12.0
+    outflow: 0
+    volume: 12000.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 40.0
+  central_reservoir:
+    water_level: 12.05
+    outflow: 0
+    volume: 12050.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 41.0
+  central_reservoir:
+    water_level: 12.1
+    outflow: 0
+    volume: 12100.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 42.0
+  central_reservoir:
+    water_level: 12.15
+    outflow: 0
+    volume: 12150.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 43.0
+  central_reservoir:
+    water_level: 12.2
+    outflow: 0
+    volume: 12200.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 44.0
+  central_reservoir:
+    water_level: 12.25
+    outflow: 0
+    volume: 12250.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 45.0
+  central_reservoir:
+    water_level: 12.3
+    outflow: 0
+    volume: 12300.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 46.0
+  central_reservoir:
+    water_level: 12.35
+    outflow: 0
+    volume: 12350.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 47.0
+  central_reservoir:
+    water_level: 12.4
+    outflow: 0
+    volume: 12400.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 48.0
+  central_reservoir:
+    water_level: 12.45
+    outflow: 0
+    volume: 12450.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 49.0
+  central_reservoir:
+    water_level: 12.5
+    outflow: 0
+    volume: 12500.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 50.0
+  central_reservoir:
+    water_level: 12.55
+    outflow: 0
+    volume: 12550.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 51.0
+  central_reservoir:
+    water_level: 12.6
+    outflow: 0
+    volume: 12600.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 52.0
+  central_reservoir:
+    water_level: 12.65
+    outflow: 0
+    volume: 12650.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 53.0
+  central_reservoir:
+    water_level: 12.7
+    outflow: 0
+    volume: 12700.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 54.0
+  central_reservoir:
+    water_level: 12.75
+    outflow: 0
+    volume: 12750.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 55.0
+  central_reservoir:
+    water_level: 12.8
+    outflow: 0
+    volume: 12800.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 56.0
+  central_reservoir:
+    water_level: 12.85
+    outflow: 0
+    volume: 12850.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 57.0
+  central_reservoir:
+    water_level: 12.9
+    outflow: 0
+    volume: 12900.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 58.0
+  central_reservoir:
+    water_level: 12.95
+    outflow: 0
+    volume: 12950.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 59.0
+  central_reservoir:
+    water_level: 13.0
+    outflow: 0
+    volume: 13000.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 60.0
+  central_reservoir:
+    water_level: 13.05
+    outflow: 0
+    volume: 13050.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 61.0
+  central_reservoir:
+    water_level: 13.1
+    outflow: 0
+    volume: 13100.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 62.0
+  central_reservoir:
+    water_level: 13.15
+    outflow: 0
+    volume: 13150.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 63.0
+  central_reservoir:
+    water_level: 13.2
+    outflow: 0
+    volume: 13200.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 64.0
+  central_reservoir:
+    water_level: 13.25
+    outflow: 0
+    volume: 13250.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 65.0
+  central_reservoir:
+    water_level: 13.3
+    outflow: 0
+    volume: 13300.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 66.0
+  central_reservoir:
+    water_level: 13.35
+    outflow: 0
+    volume: 13350.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 67.0
+  central_reservoir:
+    water_level: 13.4
+    outflow: 0
+    volume: 13400.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 68.0
+  central_reservoir:
+    water_level: 13.45
+    outflow: 0
+    volume: 13450.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 69.0
+  central_reservoir:
+    water_level: 13.5
+    outflow: 0
+    volume: 13500.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 70.0
+  central_reservoir:
+    water_level: 13.55
+    outflow: 0
+    volume: 13550.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 71.0
+  central_reservoir:
+    water_level: 13.6
+    outflow: 0
+    volume: 13600.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 72.0
+  central_reservoir:
+    water_level: 13.65
+    outflow: 0
+    volume: 13650.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 73.0
+  central_reservoir:
+    water_level: 13.7
+    outflow: 0
+    volume: 13700.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 74.0
+  central_reservoir:
+    water_level: 13.75
+    outflow: 0
+    volume: 13750.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 75.0
+  central_reservoir:
+    water_level: 13.8
+    outflow: 0
+    volume: 13800.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 76.0
+  central_reservoir:
+    water_level: 13.85
+    outflow: 0
+    volume: 13850.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 77.0
+  central_reservoir:
+    water_level: 13.9
+    outflow: 0
+    volume: 13900.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 78.0
+  central_reservoir:
+    water_level: 13.95
+    outflow: 0
+    volume: 13950.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 79.0
+  central_reservoir:
+    water_level: 14.0
+    outflow: 0
+    volume: 14000.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 80.0
+  central_reservoir:
+    water_level: 14.05
+    outflow: 0
+    volume: 14050.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 81.0
+  central_reservoir:
+    water_level: 14.1
+    outflow: 0
+    volume: 14100.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 82.0
+  central_reservoir:
+    water_level: 14.15
+    outflow: 0
+    volume: 14150.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 83.0
+  central_reservoir:
+    water_level: 14.2
+    outflow: 0
+    volume: 14200.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 84.0
+  central_reservoir:
+    water_level: 14.25
+    outflow: 0
+    volume: 14250.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 85.0
+  central_reservoir:
+    water_level: 14.3
+    outflow: 0
+    volume: 14300.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 86.0
+  central_reservoir:
+    water_level: 14.35
+    outflow: 0
+    volume: 14350.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 87.0
+  central_reservoir:
+    water_level: 14.4
+    outflow: 0
+    volume: 14400.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 88.0
+  central_reservoir:
+    water_level: 14.45
+    outflow: 0
+    volume: 14450.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 89.0
+  central_reservoir:
+    water_level: 14.5
+    outflow: 0
+    volume: 14500.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 90.0
+  central_reservoir:
+    water_level: 14.55
+    outflow: 0
+    volume: 14550.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 91.0
+  central_reservoir:
+    water_level: 14.6
+    outflow: 0
+    volume: 14600.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 92.0
+  central_reservoir:
+    water_level: 14.65
+    outflow: 0
+    volume: 14650.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 93.0
+  central_reservoir:
+    water_level: 14.7
+    outflow: 0
+    volume: 14700.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 94.0
+  central_reservoir:
+    water_level: 14.75
+    outflow: 0
+    volume: 14750.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 95.0
+  central_reservoir:
+    water_level: 14.8
+    outflow: 0
+    volume: 14800.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 96.0
+  central_reservoir:
+    water_level: 14.85
+    outflow: 0
+    volume: 14850.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 97.0
+  central_reservoir:
+    water_level: 14.9
+    outflow: 0
+    volume: 14900.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 98.0
+  central_reservoir:
+    water_level: 14.95
+    outflow: 0
+    volume: 14950.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0
+- time: 99.0
+  central_reservoir:
+    water_level: 15.0
+    outflow: 0
+    volume: 15000.0
+  gate_1:
+    opening: 0.0
+    outflow: 0
+  gate_2:
+    opening: 0.0
+    outflow: 0

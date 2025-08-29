@@ -1,0 +1,38 @@
+agents:
+  - id: reservoir_sensor
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: central_reservoir
+      state_topic: "reservoir/central/state"
+
+  - id: dispatcher_gate_1
+    class: CentralDispatcherAgent
+    config:
+      subscribed_topic: "reservoir/central/state"
+      observation_key: "water_level"
+      command_topic: "gate/1/command"
+      dispatcher_params:
+        low_level: 10.5
+        high_level: 12.0
+        low_setpoint: 1.0
+        high_setpoint: 0.0
+
+  - id: dispatcher_gate_2
+    class: CentralDispatcherAgent
+    config:
+      subscribed_topic: "reservoir/central/state"
+      observation_key: "water_level"
+      command_topic: "gate/2/command"
+      dispatcher_params:
+        low_level: 10.5
+        high_level: 12.0
+        low_setpoint: 1.0
+        high_setpoint: 0.0
+
+  - id: inflow_provider
+    class: CsvInflowAgent
+    config:
+      target_component_id: central_reservoir
+      csv_file: "inflow.csv"
+      time_column: "time"
+      data_column: "inflow"
