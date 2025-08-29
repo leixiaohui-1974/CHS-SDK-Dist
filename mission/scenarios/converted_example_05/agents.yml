@@ -1,0 +1,43 @@
+agents:
+  - id: supervisor
+    class: mission.agents.supervisor_agent.SupervisorAgent
+    config:
+      power_target_topic: "target/power/total"
+      initial_target_mw: 12.0
+
+  - id: inflow_provider
+    class: mission.agents.inflow_agent.InflowAgent
+    config:
+      inflow_topic: "data/inflow/reservoir"
+      inflow_rate: 85.0
+
+  - id: reservoir_twin
+    class: core_lib.local_agents.perception.digital_twin_agent.DigitalTwinAgent
+    config:
+      simulated_object_id: forebay_reservoir
+      state_topic: "state/reservoir/forebay"
+
+  - id: hydropower_controller
+    class: mission.agents.hydropower_control_agent.HydropowerControlAgent
+    config:
+      turbine_action_topics:
+        - "action/turbine/1"
+        - "action/turbine/2"
+        - "action/turbine/3"
+        - "action/turbine/4"
+        - "action/turbine/5"
+        - "action/turbine/6"
+      power_target_topic: "target/power/total"
+      grid_limit_topic: "grid/power/limit"
+      head_m: 15.0 # Initial head, will be updated by messages
+    subscriptions:
+      - topic: "state/reservoir/forebay"
+        callback: "lambda agent, msg: setattr(agent, 'head_m', msg['water_level'])"
+
+
+  - id: grid_simulator
+    class: mission.agents.grid_communication_agent.GridCommunicationAgent
+    config:
+      grid_limit_topic: "grid/power/limit"
+      rejection_time_s: 150.0
+      new_limit_mw: 6.0

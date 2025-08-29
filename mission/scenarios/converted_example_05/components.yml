@@ -1,0 +1,69 @@
+components:
+  - id: forebay_reservoir
+    class: Reservoir
+    initial_state:
+      volume: 75.0e+6
+      water_level: 15.0
+    parameters:
+      surface_area: 5.0e+6
+    inflow_topic: data/inflow/reservoir
+
+  - id: turbine_1
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/1
+
+  - id: turbine_2
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/2
+
+  - id: turbine_3
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/3
+
+  - id: turbine_4
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/4
+
+  - id: turbine_5
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/5
+
+  - id: turbine_6
+    class: WaterTurbine
+    initial_state:
+      outflow: 0
+      power: 0
+    parameters:
+      efficiency: 0.9
+      max_flow_rate: 100
+    action_topic: action/turbine/6
