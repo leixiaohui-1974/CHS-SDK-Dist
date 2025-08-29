@@ -1,0 +1,4 @@
+# System Topology Definition
+connections:
+  - upstream: main_reservoir
+    downstream: flood_gate
