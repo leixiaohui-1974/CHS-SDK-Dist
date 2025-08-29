@@ -1,0 +1,17 @@
+# Physical Components Definition
+components:
+  - id: target_reservoir
+    class: Reservoir
+    initial_state:
+      water_level: 14.0  # meters, start slightly below the target
+    parameters:
+      area: 800.0      # m^2
+      inflow: 75.0       # Constant inflow in m^3/s
+
+  - id: control_gate
+    class: Gate
+    initial_state:
+      opening: 0.5     # An initial opening
+    parameters:
+      width: 4.0              # meters
+      discharge_coefficient: 0.7

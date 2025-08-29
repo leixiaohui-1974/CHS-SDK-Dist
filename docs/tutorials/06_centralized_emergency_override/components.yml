@@ -1,0 +1,17 @@
+# Physical Components Definition
+components:
+  - id: main_reservoir
+    class: Reservoir
+    initial_state:
+      water_level: 98.0  # meters
+    parameters:
+      area: 1000.0      # m^2
+      inflow: 100.0       # Constant inflow in m^3/s to make the level rise
+
+  - id: flood_gate
+    class: Gate
+    initial_state:
+      opening: 0.1     # Initially 10% open
+    parameters:
+      width: 5.0              # meters
+      discharge_coefficient: 0.8

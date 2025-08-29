@@ -1,0 +1,37 @@
+# Agents and Controllers Definition
+agents:
+  # Agent 1: The "Sensor". A Digital Twin agent that perceives the state of
+  # the reservoir and publishes it to the message bus for other agents to use.
+  - id: reservoir_twin
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: target_reservoir
+      state_topic: "state/reservoir/target"
+
+# --- IMPORTANT NOTE ---
+# To make this scenario a fully functional closed-loop system, a second
+# agent, the "Actor", would be required. It is described conceptually below.
+#
+#  - id: gate_controller
+#    class: (Custom)PIDControllerAgent # This class would need to be created by a developer
+#    config:
+#      # --- Subscription ---
+#      subscribed_topic: "state/reservoir/target"
+#      observation_key: "water_level"
+#      # --- Control Logic ---
+#      target_setpoint: 15.0 # The desired water level
+#      pid_gains:
+#        kp: 0.5
+#        ki: 0.1
+#        kd: 0.05
+#      # --- Action ---
+#      controlled_object_id: "control_gate"
+#
+# This conceptual agent would listen for water level updates, compare them to its
+# internal setpoint of 15.0m, and use a PID algorithm to calculate the correct
+# gate opening, which it would then apply to the `control_gate`.
+#
+# As of the current framework version, such a generic, configurable
+# PID control agent that subscribes to a message bus topic is not available
+# for loading from YAML. This tutorial therefore serves as a design pattern
+# for agent-based distributed control.

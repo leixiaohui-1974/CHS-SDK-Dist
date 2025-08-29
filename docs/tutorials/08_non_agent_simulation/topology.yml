@@ -1,0 +1,4 @@
+# System Topology Definition
+connections:
+  - upstream: source_reservoir
+    downstream: control_gate

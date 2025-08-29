@@ -1,0 +1,8 @@
+# This file is intentionally left empty.
+#
+# By providing an empty `agents.yml`, we are telling the SimulationLoader
+# that there are no intelligent agents in this scenario. As a result, the
+# simulation will only run the physical models, demonstrating the
+# non-agent-based (or state-based) simulation mode.
+agents: []
+controllers: []

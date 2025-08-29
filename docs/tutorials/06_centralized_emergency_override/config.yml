@@ -1,0 +1,4 @@
+# Simulation Configuration
+simulation:
+  duration: 200  # Simulation total time in seconds
+  dt: 1.0        # Simulation time step in seconds

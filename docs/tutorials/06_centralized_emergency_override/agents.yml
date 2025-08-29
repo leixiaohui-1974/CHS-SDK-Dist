@@ -1,0 +1,43 @@
+# Agents and Controllers Definition
+agents:
+  # Agent 1: Senses the reservoir's state and puts it on the message bus.
+  - id: reservoir_twin
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: main_reservoir
+      state_topic: "state/reservoir/main"
+
+  # Agent 2: The central dispatcher. Monitors the reservoir state and issues commands.
+  - id: central_dispatcher
+    class: CentralDispatcherAgent
+    config:
+      subscribed_topic: "state/reservoir/main"
+      observation_key: "water_level"
+      command_topic: "command/gate/flood"
+      # --- Control Logic Parameters ---
+      # This agent uses a high/low level logic. For our emergency scenario,
+      # we only care about the high level. We set the low level to something
+      # that will never be reached.
+      dispatcher_params:
+        high_level: 100.0  # The emergency flood level in meters.
+        low_level: 0.0     # Not used in this scenario.
+        # When the level is too high, it issues the 'low_setpoint' command.
+        # We will use this to send a command for "fully open".
+        # We semantically map "setpoint" to "opening" for this example.
+        low_setpoint: 1.0  # Command to send when level > high_level (e.g., 1.0 for fully open)
+        high_setpoint: 0.1 # Command to send when level < low_level (not used)
+
+# --- IMPORTANT NOTE ---
+# To make this scenario fully runnable, a third agent would be required:
+#
+# - id: gate_controller
+#   class: (Custom)LocalControlAgent
+#   config:
+#     controlled_object_id: "flood_gate"
+#     command_topic: "command/gate/flood"
+#
+# This agent would subscribe to the "command/gate/flood" topic and execute
+# the received setpoint/command on the "flood_gate" component.
+# As of the current framework version, such a generic, configurable
+# subscribing agent is not available for loading from YAML. This tutorial
+# therefore serves as a design pattern.
