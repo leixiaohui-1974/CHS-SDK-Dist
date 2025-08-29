@@ -16,7 +16,10 @@ class Reservoir(PhysicalObjectInterface):
     def __init__(self, name: str, initial_state: State, parameters: Parameters,
                  message_bus: Optional[MessageBus] = None, inflow_topic: Optional[str] = None):
         super().__init__(name, initial_state, parameters)
-        self._state.setdefault('outflow', 0) # Ensure outflow is in the state
+        self._state.setdefault('outflow', 0)  # Ensure outflow is in the state
+        if 'water_level' in self._state and 'volume' not in self._state:
+            surface_area = self._params.get('surface_area', 1e6)
+            self._state['volume'] = self._state['water_level'] * surface_area
         self.bus = message_bus
         self.inflow_topic = inflow_topic
         self.data_inflow = 0.0 # To store inflow from messages for the current step

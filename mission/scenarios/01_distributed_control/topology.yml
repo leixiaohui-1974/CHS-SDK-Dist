@@ -1,0 +1,8 @@
+topology:
+  - from: central_reservoir
+    to: gate_1
+    link_type: 'outflow'
+
+  - from: central_reservoir
+    to: gate_2
+    link_type: 'outflow'
