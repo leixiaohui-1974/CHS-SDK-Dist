@@ -1,0 +1,8737 @@
+simulation_history:
+- time: 0.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.9128784747792
+    volume: 69999921.8808295
+    outflow: 78.11917050250854
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_2:
+    water_level: 17.9128784747792
+    volume: 7999972.380702399
+    outflow: 27.619297601495948
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 1.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866298346984
+    volume: 69999921.8808295
+    outflow: 0
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_2:
+    water_level: 17.912840805842908
+    volume: 7999972.380702399
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 2.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866298346984
+    volume: 69999921.80031794
+    outflow: 0.08051156173088345
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.08051156173088345
+  tunnel_2:
+    water_level: 17.912840805842908
+    volume: 7999972.46121396
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 3.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866285797648
+    volume: 69999921.71980639
+    outflow: 0.08051156173088345
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0804917423558298
+  tunnel_2:
+    water_level: 17.912840915649735
+    volume: 7999972.541705702
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 4.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866273248312
+    volume: 69999921.63948828
+    outflow: 0.0803181139883525
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.08029824686615153
+  tunnel_2:
+    water_level: 17.912841025429525
+    volume: 7999972.622003949
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 5.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866260729125
+    volume: 69999921.55936404
+    outflow: 0.08012424209668907
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.08010437474116175
+  tunnel_2:
+    water_level: 17.912841134945417
+    volume: 7999972.702108324
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 6.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286624824016
+    volume: 69999921.47943367
+    outflow: 0.07993036768004157
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07991050020812769
+  tunnel_2:
+    water_level: 17.912841244196894
+    volume: 7999972.782018824
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 7.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286623578141
+    volume: 69999921.39969718
+    outflow: 0.07973649166033252
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0797166240597342
+  tunnel_2:
+    water_level: 17.91284135318395
+    volume: 7999972.861735447
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 8.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866223352886
+    volume: 69999921.32015458
+    outflow: 0.07954261402584012
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07952274630688633
+  tunnel_2:
+    water_level: 17.912841461906584
+    volume: 7999972.941258194
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 9.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866210954583
+    volume: 69999921.24080585
+    outflow: 0.07934873477611261
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07932886693782029
+  tunnel_2:
+    water_level: 17.912841570364797
+    volume: 7999973.020587061
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 10.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866198586496
+    volume: 69999921.161651
+    outflow: 0.0791548538992811
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0791349859292415
+  tunnel_2:
+    water_level: 17.912841678558586
+    volume: 7999973.099722046
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 11.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286618624863
+    volume: 69999921.08269003
+    outflow: 0.07896097137763967
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0789411032805134
+  tunnel_2:
+    water_level: 17.91284178648794
+    volume: 7999973.1786631495
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 12.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866173940984
+    volume: 69999921.00392294
+    outflow: 0.07876708721624563
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07874721899672908
+  tunnel_2:
+    water_level: 17.91284189415287
+    volume: 7999973.257410369
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 13.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866161663555
+    volume: 69999920.92534974
+    outflow: 0.07857320140296044
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07855333304853156
+  tunnel_2:
+    water_level: 17.912842001553365
+    volume: 7999973.335963702
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 14.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286614941635
+    volume: 69999920.84697042
+    outflow: 0.07837931391976251
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07835944544085877
+  tunnel_2:
+    water_level: 17.91284210868943
+    volume: 7999973.414323147
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 15.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866137199362
+    volume: 69999920.768785
+    outflow: 0.07818542476578262
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0781655561555833
+  tunnel_2:
+    water_level: 17.912842215561053
+    volume: 7999973.492488704
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 16.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866125012602
+    volume: 69999920.69079347
+    outflow: 0.07799153393435143
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07797166520336189
+  tunnel_2:
+    water_level: 17.91284232216824
+    volume: 7999973.570460369
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 17.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286611285606
+    volume: 69999920.61299583
+    outflow: 0.0777976414245388
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07777777256011337
+  tunnel_2:
+    water_level: 17.912842428510984
+    volume: 7999973.648238141
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 18.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866100729744
+    volume: 69999920.53539209
+    outflow: 0.0776037472121237
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07758387821898123
+  tunnel_2:
+    water_level: 17.912842534589284
+    volume: 7999973.725822019
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 19.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286608863365
+    volume: 69999920.45798224
+    outflow: 0.07740985130181707
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07738998217887673
+  tunnel_2:
+    water_level: 17.912842640403138
+    volume: 7999973.803212002
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 20.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866076567774
+    volume: 69999920.38076629
+    outflow: 0.07721595368082831
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0771960844211466
+  tunnel_2:
+    water_level: 17.912842745952545
+    volume: 7999973.880408086
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 21.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286606453212
+    volume: 69999920.30374423
+    outflow: 0.0770220543303735
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07700218493868134
+  tunnel_2:
+    water_level: 17.9128428512375
+    volume: 7999973.957410271
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 22.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866052526695
+    volume: 69999920.22691607
+    outflow: 0.07682815325499552
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07680828373606087
+  tunnel_2:
+    water_level: 17.912842956258004
+    volume: 7999974.034218555
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 23.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286604055149
+    volume: 69999920.15028183
+    outflow: 0.07663425044160112
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07661438078253806
+  tunnel_2:
+    water_level: 17.912843061014048
+    volume: 7999974.110832936
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 24.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286602860651
+    volume: 69999920.07384148
+    outflow: 0.076440345882873
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07642047609433765
+  tunnel_2:
+    water_level: 17.91284316550564
+    volume: 7999974.187253412
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 25.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286601669175
+    volume: 69999919.99759504
+    outflow: 0.07624643955957137
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0762265696345195
+  tunnel_2:
+    water_level: 17.912843269732768
+    volume: 7999974.263479982
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 26.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912866004807217
+    volume: 69999919.92154251
+    outflow: 0.07605253148195554
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07603266141923239
+  tunnel_2:
+    water_level: 17.912843373695434
+    volume: 7999974.339512643
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 27.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286599295291
+    volume: 69999919.84568389
+    outflow: 0.07585862162466395
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07583875142905505
+  tunnel_2:
+    water_level: 17.912843477393636
+    volume: 7999974.415351395
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 28.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865981128824
+    volume: 69999919.77001917
+    outflow: 0.07566470998595305
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07564483965033807
+  tunnel_2:
+    water_level: 17.912843580827374
+    volume: 7999974.490996234
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 29.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865969334966
+    volume: 69999919.69454838
+    outflow: 0.07547079654610665
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07545092607527808
+  tunnel_2:
+    water_level: 17.912843683996638
+    volume: 7999974.56644716
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 30.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286595757133
+    volume: 69999919.6192715
+    outflow: 0.07527688131520677
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07525701070199299
+  tunnel_2:
+    water_level: 17.91284378690143
+    volume: 7999974.641704171
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 31.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865945837925
+    volume: 69999919.54418854
+    outflow: 0.07508296426734463
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07506309352256378
+  tunnel_2:
+    water_level: 17.91284388954175
+    volume: 7999974.7167672645
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 32.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865934134743
+    volume: 69999919.4692995
+    outflow: 0.07488904540046853
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07486917451089034
+  tunnel_2:
+    water_level: 17.91284399191759
+    volume: 7999974.791636439
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 33.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865922461787
+    volume: 69999919.39460437
+    outflow: 0.07469512470645825
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07467525367689312
+  tunnel_2:
+    water_level: 17.91284409402895
+    volume: 7999974.866311693
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 34.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286591081906
+    volume: 69999919.32010317
+    outflow: 0.07450120217104612
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07448133100633823
+  tunnel_2:
+    water_level: 17.91284419587583
+    volume: 7999974.940793023
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 35.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865899206555
+    volume: 69999919.24579589
+    outflow: 0.0743072777919726
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07428740647268257
+  tunnel_2:
+    water_level: 17.912844297458225
+    volume: 7999975.01508043
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 36.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865887624278
+    volume: 69999919.17168254
+    outflow: 0.07411335154257638
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07409348008568181
+  tunnel_2:
+    water_level: 17.912844398776134
+    volume: 7999975.089173909
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 37.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286587607223
+    volume: 69999919.0977631
+    outflow: 0.07391942342646864
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07389955183074538
+  tunnel_2:
+    water_level: 17.912844499829554
+    volume: 7999975.1630734615
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 38.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865864550408
+    volume: 69999919.02403761
+    outflow: 0.0737254934350453
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07370562168700076
+  tunnel_2:
+    water_level: 17.912844600618477
+    volume: 7999975.2367790835
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 39.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865853058815
+    volume: 69999918.95050605
+    outflow: 0.07353156155346861
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07351168966407697
+  tunnel_2:
+    water_level: 17.91284470114291
+    volume: 7999975.310290773
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 40.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865841597448
+    volume: 69999918.87716842
+    outflow: 0.07333762777290281
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07331775573474093
+  tunnel_2:
+    water_level: 17.912844801402844
+    volume: 7999975.383608529
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 41.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865830166314
+    volume: 69999918.80402473
+    outflow: 0.07314369207824285
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0731238199023554
+  tunnel_2:
+    water_level: 17.912844901398277
+    volume: 7999975.4567323495
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 42.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865818765408
+    volume: 69999918.73107497
+    outflow: 0.07294975447898984
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07292988215173855
+  tunnel_2:
+    water_level: 17.912845001129213
+    volume: 7999975.529662232
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 43.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865807394727
+    volume: 69999918.65831916
+    outflow: 0.07275581493508027
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07273594245512668
+  tunnel_2:
+    water_level: 17.912845100595636
+    volume: 7999975.602398175
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 44.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865796054277
+    volume: 69999918.58575729
+    outflow: 0.07256187346204546
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07254200083427112
+  tunnel_2:
+    water_level: 17.91284519979756
+    volume: 7999975.674940175
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 45.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865784744056
+    volume: 69999918.51338935
+    outflow: 0.07236793002565113
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07234805724872423
+  tunnel_2:
+    water_level: 17.912845298734965
+    volume: 7999975.747288233
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 46.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865773464066
+    volume: 69999918.44121537
+    outflow: 0.07217398464136097
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07215411171394319
+  tunnel_2:
+    water_level: 17.91284539740786
+    volume: 7999975.819442345
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 47.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865762214306
+    volume: 69999918.36923532
+    outflow: 0.07198003728087933
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07196016420161369
+  tunnel_2:
+    water_level: 17.91284549581624
+    volume: 7999975.891402509
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 48.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286575099478
+    volume: 69999918.29744923
+    outflow: 0.07178608794077287
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07176621471458429
+  tunnel_2:
+    water_level: 17.9128455939601
+    volume: 7999975.9631687235
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 49.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286573980548
+    volume: 69999918.2258571
+    outflow: 0.07159213661126179
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07157226322417982
+  tunnel_2:
+    water_level: 17.91284569183944
+    volume: 7999976.034740986
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 50.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865728646413
+    volume: 69999918.15445891
+    outflow: 0.07139818326980733
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0713783097330535
+  tunnel_2:
+    water_level: 17.912845789454256
+    volume: 7999976.106119296
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 51.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865717517576
+    volume: 69999918.08325468
+    outflow: 0.07120422791899897
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07118435422485139
+  tunnel_2:
+    water_level: 17.912845886804543
+    volume: 7999976.1773036495
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 52.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286570641897
+    volume: 69999918.0122444
+    outflow: 0.07101027054237181
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07099039668940334
+  tunnel_2:
+    water_level: 17.912845983890307
+    volume: 7999976.248294046
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 53.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.9128656953506
+    volume: 69999917.9414281
+    outflow: 0.07081631111690222
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07079643711642751
+  tunnel_2:
+    water_level: 17.91284608071153
+    volume: 7999976.319090484
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 54.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286568431246
+    volume: 69999917.87080574
+    outflow: 0.07062234966408372
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07060247550192653
+  tunnel_2:
+    water_level: 17.91284617726823
+    volume: 7999976.389692959
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 55.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865673304555
+    volume: 69999917.80037735
+    outflow: 0.07042838613509934
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07040851181619799
+  tunnel_2:
+    water_level: 17.912846273560383
+    volume: 7999976.460101471
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 56.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286566232688
+    volume: 69999917.73014294
+    outflow: 0.07023442054490353
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0702145460613757
+  tunnel_2:
+    water_level: 17.912846369588
+    volume: 7999976.530316018
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 57.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865651379445
+    volume: 69999917.66010249
+    outflow: 0.07004045286347392
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.07002057823316613
+  tunnel_2:
+    water_level: 17.91284646535107
+    volume: 7999976.600336595
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 58.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865640462236
+    volume: 69999917.590256
+    outflow: 0.0698464831057221
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06982660830135333
+  tunnel_2:
+    water_level: 17.912846560849598
+    volume: 7999976.670163204
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 59.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865629575265
+    volume: 69999917.5206035
+    outflow: 0.06965251122187746
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06963263626133114
+  tunnel_2:
+    water_level: 17.912846656083573
+    volume: 7999976.73979584
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 60.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865618718527
+    volume: 69999917.45114495
+    outflow: 0.06945853723314538
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06943866210844167
+  tunnel_2:
+    water_level: 17.912846751053
+    volume: 7999976.809234503
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 61.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865607892023
+    volume: 69999917.38188039
+    outflow: 0.0692645611087995
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06924468581840573
+  tunnel_2:
+    water_level: 17.912846845757873
+    volume: 7999976.878479188
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 62.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865597095756
+    volume: 69999917.31280981
+    outflow: 0.06907058283738644
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06905070738629504
+  tunnel_2:
+    water_level: 17.912846940198182
+    volume: 7999976.947529895
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 63.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865586329723
+    volume: 69999917.2439332
+    outflow: 0.06887660242699722
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0688567268071256
+  tunnel_2:
+    water_level: 17.912847034373936
+    volume: 7999977.016386622
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 64.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865575593926
+    volume: 69999917.17525057
+    outflow: 0.06868261983977936
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.068662744056122
+  tunnel_2:
+    water_level: 17.912847128285122
+    volume: 7999977.085049366
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 65.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865564888364
+    volume: 69999917.10676195
+    outflow: 0.06848863508361636
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06846875912801867
+  tunnel_2:
+    water_level: 17.91284722193175
+    volume: 7999977.1535181245
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 66.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286555421304
+    volume: 69999917.0384673
+    outflow: 0.06829464812018493
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06827477200425863
+  tunnel_2:
+    water_level: 17.912847315313797
+    volume: 7999977.221792896
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 67.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865543567953
+    volume: 69999916.97036664
+    outflow: 0.06810065897705075
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06808078268597677
+  tunnel_2:
+    water_level: 17.91284740843128
+    volume: 7999977.289873679
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 68.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865532953106
+    volume: 69999916.90245998
+    outflow: 0.06790666760227586
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06788679114770674
+  tunnel_2:
+    water_level: 17.912847501284187
+    volume: 7999977.35776047
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 69.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286552236849
+    volume: 69999916.8347473
+    outflow: 0.06771267400336219
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06769279737036273
+  tunnel_2:
+    water_level: 17.912847593872513
+    volume: 7999977.425453268
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 70.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865511814115
+    volume: 69999916.76722862
+    outflow: 0.06751867816113868
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06749880135471434
+  tunnel_2:
+    water_level: 17.912847686196258
+    volume: 7999977.492952069
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 71.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865501289975
+    volume: 69999916.69990394
+    outflow: 0.06732468006292208
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06730480308140686
+  tunnel_2:
+    water_level: 17.91284777825542
+    volume: 7999977.560256872
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 72.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286549079608
+    volume: 69999916.63277325
+    outflow: 0.06713067969588232
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06711080255105281
+  tunnel_2:
+    water_level: 17.912847870049994
+    volume: 7999977.627367675
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 73.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865480332417
+    volume: 69999916.56583658
+    outflow: 0.06693667705378828
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06691679972377196
+  tunnel_2:
+    water_level: 17.912847961579978
+    volume: 7999977.694284475
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 74.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865469898996
+    volume: 69999916.4990939
+    outflow: 0.06674267211003355
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06672279460660692
+  tunnel_2:
+    water_level: 17.91284805284537
+    volume: 7999977.76100727
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 75.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286545949582
+    volume: 69999916.43254524
+    outflow: 0.06654866485806302
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06652878718631436
+  tunnel_2:
+    water_level: 17.91284814384616
+    volume: 7999977.827536057
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 76.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865449122876
+    volume: 69999916.36619058
+    outflow: 0.06635465530485887
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0663347774426866
+  tunnel_2:
+    water_level: 17.912848234582352
+    volume: 7999977.893870834
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 77.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865438780173
+    volume: 69999916.30002993
+    outflow: 0.06616064339604137
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0661407653552786
+  tunnel_2:
+    water_level: 17.91284832505394
+    volume: 7999977.9600116
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 78.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865428467715
+    volume: 69999916.2340633
+    outflow: 0.06596662914506224
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0659467509308014
+  tunnel_2:
+    water_level: 17.912848415260925
+    volume: 7999978.025958351
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 79.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865418185493
+    volume: 69999916.16829069
+    outflow: 0.06577261253119496
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06575273412795897
+  tunnel_2:
+    water_level: 17.912848505203296
+    volume: 7999978.091711085
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 80.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865407933516
+    volume: 69999916.1027121
+    outflow: 0.0655785935403551
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06555871496008424
+  tunnel_2:
+    water_level: 17.91284859488106
+    volume: 7999978.1572698
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 81.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286539771178
+    volume: 69999916.03732753
+    outflow: 0.06538457215829084
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0653646933922967
+  tunnel_2:
+    water_level: 17.912848684294204
+    volume: 7999978.222634493
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 82.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865387520284
+    volume: 69999915.97213697
+    outflow: 0.06519054837058044
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06517066941702336
+  tunnel_2:
+    water_level: 17.91284877344273
+    volume: 7999978.287805162
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 83.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865377359037
+    volume: 69999915.90714045
+    outflow: 0.06499652216262963
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.064976643033552
+  tunnel_2:
+    water_level: 17.91284886232663
+    volume: 7999978.352781805
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 84.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865367228026
+    volume: 69999915.84233795
+    outflow: 0.06480249353360948
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06478261420630006
+  tunnel_2:
+    water_level: 17.912848950945904
+    volume: 7999978.417564419
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 85.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286535712726
+    volume: 69999915.77772948
+    outflow: 0.06460846244772532
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06458858293422341
+  tunnel_2:
+    water_level: 17.912849039300553
+    volume: 7999978.482153002
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 86.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865347056737
+    volume: 69999915.71331505
+    outflow: 0.06441442888978736
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06439454918820775
+  tunnel_2:
+    water_level: 17.912849127390565
+    volume: 7999978.546547552
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 87.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286533701646
+    volume: 69999915.64909466
+    outflow: 0.064220392865522
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0642005129739641
+  tunnel_2:
+    water_level: 17.912849215215946
+    volume: 7999978.610748065
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 88.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865327006426
+    volume: 69999915.5850683
+    outflow: 0.06402635433839683
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06400647425493144
+  tunnel_2:
+    water_level: 17.912849302776685
+    volume: 7999978.674754539
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 89.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865317026636
+    volume: 69999915.52123599
+    outflow: 0.06383231330681542
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06381243302949523
+  tunnel_2:
+    water_level: 17.912849390072783
+    volume: 7999978.738566971
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 90.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865307077094
+    volume: 69999915.45759772
+    outflow: 0.06363826974786858
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06361838928182112
+  tunnel_2:
+    water_level: 17.91284947710423
+    volume: 7999978.80218536
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 91.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865297157797
+    volume: 69999915.39415349
+    outflow: 0.06344422365972469
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06342434299588075
+  tunnel_2:
+    water_level: 17.912849563871035
+    volume: 7999978.865609704
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 92.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865287268744
+    volume: 69999915.33090332
+    outflow: 0.06325017500482322
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06323029414116174
+  tunnel_2:
+    water_level: 17.912849650373182
+    volume: 7999978.928839997
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 93.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286527740994
+    volume: 69999915.2678472
+    outflow: 0.06305612378095697
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06303624272260297
+  tunnel_2:
+    water_level: 17.912849736610674
+    volume: 7999978.99187624
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 94.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286526758138
+    volume: 69999915.20498513
+    outflow: 0.06286206997152058
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06284218871645364
+  tunnel_2:
+    water_level: 17.912849822583507
+    volume: 7999979.054718428
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 95.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865257783068
+    volume: 69999915.14231712
+    outflow: 0.06266801355970264
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06264813209866843
+  tunnel_2:
+    water_level: 17.912849908291673
+    volume: 7999979.117366561
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 96.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865248015002
+    volume: 69999915.07984316
+    outflow: 0.06247395452848259
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.062454072866599535
+  tunnel_2:
+    water_level: 17.912849993735176
+    volume: 7999979.1798206335
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 97.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286523827719
+    volume: 69999915.01756327
+    outflow: 0.062279892853374895
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.062260010995801446
+  tunnel_2:
+    water_level: 17.912850078914005
+    volume: 7999979.242080645
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 98.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865228569622
+    volume: 69999914.95547745
+    outflow: 0.062085828538688145
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06206594647607752
+  tunnel_2:
+    water_level: 17.912850163828164
+    volume: 7999979.304146592
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 99.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865218892303
+    volume: 69999914.89358568
+    outflow: 0.06189176154499688
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.061871879275201984
+  tunnel_2:
+    water_level: 17.912850248477643
+    volume: 7999979.366018471
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 100.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865209245233
+    volume: 69999914.83188799
+    outflow: 0.061697691868983814
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06167780938983618
+  tunnel_2:
+    water_level: 17.91285033286244
+    volume: 7999979.427696281
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 101.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865199628413
+    volume: 69999914.77038437
+    outflow: 0.0615036194852574
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06148373680190618
+  tunnel_2:
+    water_level: 17.912850416982554
+    volume: 7999979.489180018
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 102.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865190041842
+    volume: 69999914.70907483
+    outflow: 0.06130954438283877
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06128966148573912
+  tunnel_2:
+    water_level: 17.91285050083798
+    volume: 7999979.55046968
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 103.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286518048552
+    volume: 69999914.64795935
+    outflow: 0.061115466535827896
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0610955834301217
+  tunnel_2:
+    water_level: 17.912850584428707
+    volume: 7999979.611565263
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 104.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865170959453
+    volume: 69999914.58703797
+    outflow: 0.06092138594765118
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06090150263111393
+  tunnel_2:
+    water_level: 17.912850667754743
+    volume: 7999979.672466766
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 105.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286516146364
+    volume: 69999914.52631067
+    outflow: 0.06072730257715103
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.060707419054963734
+  tunnel_2:
+    water_level: 17.912850750816077
+    volume: 7999979.733174185
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 106.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865151998073
+    volume: 69999914.46577746
+    outflow: 0.060533216427412155
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.060513332682414024
+  tunnel_2:
+    water_level: 17.91285083361271
+    volume: 7999979.793687518
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 107.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865142562758
+    volume: 69999914.40543833
+    outflow: 0.06033912745664404
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06031924349395952
+  tunnel_2:
+    water_level: 17.91285091614463
+    volume: 7999979.854006762
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 108.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865133157702
+    volume: 69999914.3452933
+    outflow: 0.0601450356600659
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.06012515149237979
+  tunnel_2:
+    water_level: 17.91285099841184
+    volume: 7999979.914131913
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 109.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865123782893
+    volume: 69999914.28534235
+    outflow: 0.0599509410328346
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05993105663526974
+  tunnel_2:
+    water_level: 17.912851080414338
+    volume: 7999979.97406297
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 110.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865114438336
+    volume: 69999914.2255855
+    outflow: 0.059756843524691565
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05973695890235639
+  tunnel_2:
+    water_level: 17.912851162152116
+    volume: 7999980.033799929
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 111.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865105124038
+    volume: 69999914.16602276
+    outflow: 0.05956274313022263
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.059542858295859515
+  tunnel_2:
+    water_level: 17.912851243625173
+    volume: 7999980.093342787
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 112.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286509583999
+    volume: 69999914.10665412
+    outflow: 0.05936863983633429
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.059348754772363566
+  tunnel_2:
+    water_level: 17.912851324833497
+    volume: 7999980.152691541
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 113.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.9128650865862
+    volume: 69999914.04747958
+    outflow: 0.05917453362976078
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05915464834896778
+  tunnel_2:
+    water_level: 17.912851405777094
+    volume: 7999980.21184619
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 114.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865077362664
+    volume: 69999913.98849916
+    outflow: 0.05898042448174496
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05896053896638847
+  tunnel_2:
+    water_level: 17.912851486455953
+    volume: 7999980.270806729
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 115.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865068169385
+    volume: 69999913.92971285
+    outflow: 0.058786312370832844
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.058766426633732854
+  tunnel_2:
+    water_level: 17.912851566870078
+    volume: 7999980.329573155
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 116.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865059006364
+    volume: 69999913.87112065
+    outflow: 0.058592197275285744
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.058572311313959194
+  tunnel_2:
+    water_level: 17.912851647019455
+    volume: 7999980.388145466
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 117.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865049873595
+    volume: 69999913.81272256
+    outflow: 0.058398079196279123
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05837819299274416
+  tunnel_2:
+    water_level: 17.912851726904087
+    volume: 7999980.446523659
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 118.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865040771084
+    volume: 69999913.7545186
+    outflow: 0.05820395808068119
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.058184071647809824
+  tunnel_2:
+    water_level: 17.912851806523967
+    volume: 7999980.50470773
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 119.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865031698832
+    volume: 69999913.69650877
+    outflow: 0.05800983392915277
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05798994726436848
+  tunnel_2:
+    water_level: 17.912851885879096
+    volume: 7999980.562697678
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 120.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865022656838
+    volume: 69999913.63869306
+    outflow: 0.057815706711113225
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05779581981180294
+  tunnel_2:
+    water_level: 17.91285196496946
+    volume: 7999980.620493498
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 121.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865013645103
+    volume: 69999913.58107148
+    outflow: 0.05762157642692444
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05760168929044881
+  tunnel_2:
+    water_level: 17.912852043795063
+    volume: 7999980.678095187
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 122.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912865004663626
+    volume: 69999913.52364404
+    outflow: 0.057427443029761
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.057407555653437616
+  tunnel_2:
+    water_level: 17.9128521223559
+    volume: 7999980.735502743
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 123.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286499571241
+    volume: 69999913.46641074
+    outflow: 0.05723330650372958
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05721341889273783
+  tunnel_2:
+    water_level: 17.91285220065196
+    volume: 7999980.792716162
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 124.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864986791458
+    volume: 69999913.40937157
+    outflow: 0.05703916684855751
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.057019279000208034
+  tunnel_2:
+    water_level: 17.91285227868325
+    volume: 7999980.849735442
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 125.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286497790076
+    volume: 69999913.35252655
+    outflow: 0.05684502402423863
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05682513591990311
+  tunnel_2:
+    water_level: 17.912852356449758
+    volume: 7999980.906560577
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 126.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864969040324
+    volume: 69999913.29587567
+    outflow: 0.05665087799819088
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05663098965094154
+  tunnel_2:
+    water_level: 17.912852433951475
+    volume: 7999980.963191567
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 127.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286496021015
+    volume: 69999913.23941894
+    outflow: 0.05645672877738612
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.056436840184425845
+  tunnel_2:
+    water_level: 17.912852511188408
+    volume: 7999981.019628407
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 128.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864951410242
+    volume: 69999913.18315636
+    outflow: 0.05626257631269496
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05624268747921124
+  tunnel_2:
+    water_level: 17.912852588160547
+    volume: 7999981.075871095
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 129.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864942640592
+    volume: 69999913.12708794
+    outflow: 0.05606842060264258
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05604853150969983
+  tunnel_2:
+    water_level: 17.912852664867888
+    volume: 7999981.131919626
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 130.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864933901208
+    volume: 69999913.07121368
+    outflow: 0.05587426160531344
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05585437226611088
+  tunnel_2:
+    water_level: 17.912852741310427
+    volume: 7999981.187773999
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 131.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864925192086
+    volume: 69999913.01553358
+    outflow: 0.05568009931065524
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.055660209714181536
+  tunnel_2:
+    water_level: 17.912852817488158
+    volume: 7999981.243434208
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 132.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286491651323
+    volume: 69999912.96004765
+    outflow: 0.055485933692193394
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05546604384359888
+  tunnel_2:
+    water_level: 17.912852893401077
+    volume: 7999981.298900252
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 133.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864907864638
+    volume: 69999912.90475588
+    outflow: 0.05529176473124993
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05527187462756042
+  tunnel_2:
+    water_level: 17.91285296904918
+    volume: 7999981.354172126
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 134.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864899246305
+    volume: 69999912.84965828
+    outflow: 0.055097592400685076
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05507770202248342
+  tunnel_2:
+    water_level: 17.912853044432463
+    volume: 7999981.409249828
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 135.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286489065824
+    volume: 69999912.79475486
+    outflow: 0.05490341665652081
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.054883526025317014
+  tunnel_2:
+    water_level: 17.912853119550917
+    volume: 7999981.464133354
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 136.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864882100447
+    volume: 69999912.74004562
+    outflow: 0.0547092375119466
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.054689346624707334
+  tunnel_2:
+    water_level: 17.912853194404548
+    volume: 7999981.518822701
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 137.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864873572914
+    volume: 69999912.68553057
+    outflow: 0.05451505491405533
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.054495163751118486
+  tunnel_2:
+    water_level: 17.912853268993338
+    volume: 7999981.573317865
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 138.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864865075655
+    volume: 69999912.6312097
+    outflow: 0.05432086885075828
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.054300977433837015
+  tunnel_2:
+    water_level: 17.912853343317295
+    volume: 7999981.627618843
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 139.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864856608657
+    volume: 69999912.57708302
+    outflow: 0.054126679293102664
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05410678759404526
+  tunnel_2:
+    water_level: 17.912853417376407
+    volume: 7999981.681725631
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 140.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286484817193
+    volume: 69999912.52315053
+    outflow: 0.05393248620334307
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.053912594243948044
+  tunnel_2:
+    water_level: 17.91285349117067
+    volume: 7999981.7356382245
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 141.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864839765476
+    volume: 69999912.46941224
+    outflow: 0.05373828958521404
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.053718397353884194
+  tunnel_2:
+    water_level: 17.91285356470008
+    volume: 7999981.789356622
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 142.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286483138929
+    volume: 69999912.41586815
+    outflow: 0.05354408939188918
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05352419688532251
+  tunnel_2:
+    water_level: 17.912853637964627
+    volume: 7999981.842880819
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 143.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864823043368
+    volume: 69999912.36251827
+    outflow: 0.05334988560972533
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05332999281610903
+  tunnel_2:
+    water_level: 17.912853710964317
+    volume: 7999981.896210812
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 144.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864814727723
+    volume: 69999912.30936259
+    outflow: 0.0531556781823924
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05313578512376516
+  tunnel_2:
+    water_level: 17.912853783699134
+    volume: 7999981.949346597
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 145.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864806442343
+    volume: 69999912.25640112
+    outflow: 0.05296146712949005
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05294157377695004
+  tunnel_2:
+    water_level: 17.912853856169082
+    volume: 7999982.002288171
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 146.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286479818724
+    volume: 69999912.20363387
+    outflow: 0.05276725237674664
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05274735875242358
+  tunnel_2:
+    water_level: 17.91285392837415
+    volume: 7999982.05503553
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 147.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286478996241
+    volume: 69999912.15106083
+    outflow: 0.05257303393470768
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.052553140026601414
+  tunnel_2:
+    water_level: 17.912854000314333
+    volume: 7999982.107588669
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 148.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864781767848
+    volume: 69999912.09868202
+    outflow: 0.052378811770957316
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.052358917566921744
+  tunnel_2:
+    water_level: 17.91285407198963
+    volume: 7999982.159947587
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 149.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864773603562
+    volume: 69999912.04649743
+    outflow: 0.05218458582662982
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05216469134033708
+  tunnel_2:
+    water_level: 17.912854143400036
+    volume: 7999982.212112279
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 150.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286476546955
+    volume: 69999911.99450707
+    outflow: 0.05199035610279383
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.051970461321996196
+  tunnel_2:
+    water_level: 17.91285421454554
+    volume: 7999982.26408274
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 151.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864757365814
+    volume: 69999911.94271095
+    outflow: 0.051796122565651546
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.051776227495397946
+  tunnel_2:
+    water_level: 17.912854285426146
+    volume: 7999982.315858968
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 152.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286474929235
+    volume: 69999911.89110906
+    outflow: 0.05160188517214221
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.0515819898000087
+  tunnel_2:
+    water_level: 17.91285435604184
+    volume: 7999982.367440958
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 153.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864741249162
+    volume: 69999911.83970141
+    outflow: 0.05140764390491235
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05138774823590675
+  tunnel_2:
+    water_level: 17.912854426392617
+    volume: 7999982.418828706
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 154.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286473323625
+    volume: 69999911.78848802
+    outflow: 0.05121339874634433
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05119350277670148
+  tunnel_2:
+    water_level: 17.91285449647848
+    volume: 7999982.470022209
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 155.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.91286472525362
+    volume: 69999911.73746887
+    outflow: 0.05101914963428526
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05099925336902934
+  tunnel_2:
+    water_level: 17.912854566299416
+    volume: 7999982.521021462
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 156.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864717301265
+    volume: 69999911.68664397
+    outflow: 0.05082489657672758
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05080500000316237
+  tunnel_2:
+    water_level: 17.912854635855425
+    volume: 7999982.571826462
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 157.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864709379186
+    volume: 69999911.63601333
+    outflow: 0.05063063951041624
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05061074262459908
+  tunnel_2:
+    water_level: 17.912854705146493
+    volume: 7999982.622437204
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 158.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864701487386
+    volume: 69999911.58557695
+    outflow: 0.05043637842485383
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05041648123175129
+  tunnel_2:
+    water_level: 17.912854774172626
+    volume: 7999982.672853686
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 159.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864693625867
+    volume: 69999911.53533484
+    outflow: 0.05024211327341906
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05022221576904311
+  tunnel_2:
+    water_level: 17.91285484293381
+    volume: 7999982.723075902
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 160.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864685794627
+    volume: 69999911.485287
+    outflow: 0.050047844035840894
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.05002794621614889
+  tunnel_2:
+    water_level: 17.912854911430042
+    volume: 7999982.773103848
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 161.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864677993667
+    volume: 69999911.43543343
+    outflow: 0.04985357068247113
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.04983367254336125
+  tunnel_2:
+    water_level: 17.91285497966132
+    volume: 7999982.82293752
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 162.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864670222994
+    volume: 69999911.38577414
+    outflow: 0.04965929316500528
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.049639394720506685
+  tunnel_2:
+    water_level: 17.91285504762763
+    volume: 7999982.872576915
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 163.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.9128646624826
+    volume: 69999911.33630912
+    outflow: 0.049465011480035834
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.049445112707801414
+  tunnel_2:
+    water_level: 17.912855115328973
+    volume: 7999982.922022028
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 164.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864654772484
+    volume: 69999911.2870384
+    outflow: 0.04927072556909618
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.049250826455661735
+  tunnel_2:
+    water_level: 17.912855182765345
+    volume: 7999982.971272854
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 165.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864647092658
+    volume: 69999911.23796196
+    outflow: 0.04907643538199645
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.04905653595975441
+  tunnel_2:
+    water_level: 17.912855249936733
+    volume: 7999983.02032939
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 166.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864639443114
+    volume: 69999911.18907982
+    outflow: 0.04888214093242953
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.04886224117870008
+  tunnel_2:
+    water_level: 17.91285531684314
+    volume: 7999983.069191631
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0
+- time: 167.0
+  wendegen_reservoir:
+    water_level: -3.986502226263018e-07
+    outflow: 0
+    volume: -19.932511131315092
+  water_intake_gate:
+    opening: 0.5
+    outflow: 0
+  tunnel_1:
+    water_level: 17.912864631823854
+    volume: 69999911.14039198
+    outflow: 0.04868784215081153
+  taoriver_gate:
+    opening: 0.6
+    outflow: 0.048667942061176576
+  tunnel_2:
+    water_level: 17.91285538348455
+    volume: 7999983.117859573
+    outflow: 0
+  guiliu_gate:
+    opening: 0.6
+    outflow: 0
+  tunnel_3:
+    water_level: 17.9128784747792
+    volume: 100000000.0
+    outflow: 0
+  connection_pool:
+    water_level: -0.005600887912875821
+    outflow: 0
+    volume: -56.0088791287582
+  pipe_1:
+    flow: 15.0
+    pressure: 0.8
+    outflow: 0
+    head_loss: 0
+  online_valve:
+    setting: 0.7
+    outflow: 0
+    opening: 100.0
+  pipe_2:
+    flow: 15.0
+    pressure: 0.7
+    outflow: 0
+    head_loss: 0
+  terminal_valve:
+    setting: 0.5
+    outflow: 0
+    opening: 100.0
+  terminal_pool:
+    water_level: 0.0
+    outflow: 0
+    volume: 0.0

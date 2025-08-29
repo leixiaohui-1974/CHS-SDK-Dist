@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  sut:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: water-system-sut
+    volumes:
+      # Mount the scenarios and output directory for easy development and result inspection
+      - ./mission:/app/mission
+      # The output from run_scenario.py will be written here
+      - ./output:/app/output
+    depends_on:
+      - rabbitmq
+    # The command will be provided when running docker-compose, e.g.,
+    # docker-compose run sut mission/scenarios/yinchuojiliao
+    # This keeps the service definition generic.
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  rabbitmq:
+    image: "rabbitmq:3.13-management"
+    hostname: "rabbitmq"
+    container_name: rabbitmq
+    ports:
+      # AMQP protocol port
+      - "5672:5672"
+      # HTTP management UI
+      - "15672:15672"
+    volumes:
+      # Persist rabbitmq data
+      - rabbitmq_data:/var/lib/rabbitmq/
+
+volumes:
+  rabbitmq_data:

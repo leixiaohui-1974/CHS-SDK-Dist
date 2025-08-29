@@ -1,0 +1,197 @@
+# Defines all agents in the simulation
+# Note: The loader will be responsible for creating the shared message_bus
+# and injecting it into agents that require it.
+
+# Simple controllers that are wired directly by the harness
+controllers:
+  - id: taoriver_ctrl
+    class: PIDController
+    controlled_id: taoriver_gate
+    observed_id: tunnel_1
+    observation_key: water_level
+    config:
+      Kp: -0.1
+      Ki: -0.01
+      Kd: -0.05
+      setpoint: 324.20
+      min_output: 0
+      max_output: 1
+
+  - id: guiliu_ctrl
+    class: PIDController
+    controlled_id: guiliu_gate
+    observed_id: tunnel_2
+    observation_key: water_level
+    config:
+      Kp: -0.1
+      Ki: -0.01
+      Kd: -0.05
+      setpoint: 320.38
+      min_output: 0
+      max_output: 1
+
+  - id: online_valve_ctrl
+    class: PIDController
+    controlled_id: online_valve
+    observed_id: pipe_2
+    observation_key: pressure
+    config:
+      Kp: 0.2
+      Ki: 0.02
+      Kd: 0.1
+      setpoint: 0.65
+      min_output: 0
+      max_output: 1
+
+  - id: terminal_valve_ctrl
+    class: PIDController
+    controlled_id: terminal_valve
+    observed_id: terminal_pool
+    observation_key: water_level
+    config:
+      Kp: -0.05
+      Ki: -0.005
+      Kd: -0.02
+      setpoint: 212.5
+      min_output: 0
+      max_output: 1
+
+  - id: intake_gate_ctrl
+    class: PIDController
+    controlled_id: water_intake_gate
+    observed_id: tunnel_1
+    observation_key: water_level
+    config:
+      Kp: -0.1
+      Ki: -0.01
+      Kd: -0.05
+      setpoint: 349.5
+      min_output: 0
+      max_output: 1
+
+# Agents that run in the main MAS loop
+agents:
+  # Perception layer: Create a digital twin for every physical component
+  - id: twin_wendegen_reservoir
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: wendegen_reservoir
+      state_topic: state/wendegen_reservoir
+  - id: twin_water_intake_gate
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: water_intake_gate
+      state_topic: state/water_intake_gate
+  - id: twin_tunnel_1
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: tunnel_1
+      state_topic: state/tunnel_1
+  - id: twin_taoriver_gate
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: taoriver_gate
+      state_topic: state/taoriver_gate
+  - id: twin_tunnel_2
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: tunnel_2
+      state_topic: state/tunnel_2
+  - id: twin_guiliu_gate
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: guiliu_gate
+      state_topic: state/guiliu_gate
+  - id: twin_tunnel_3
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: tunnel_3
+      state_topic: state/tunnel_3
+  - id: twin_connection_pool
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: connection_pool
+      state_topic: state/connection_pool
+  - id: twin_pipe_1
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: pipe_1
+      state_topic: state/pipe_1
+  - id: twin_online_valve
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: online_valve
+      state_topic: state/online_valve
+  - id: twin_pipe_2
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: pipe_2
+      state_topic: state/pipe_2
+  - id: twin_terminal_valve
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: terminal_valve
+      state_topic: state/terminal_valve
+  - id: twin_terminal_pool
+    class: DigitalTwinAgent
+    config:
+      simulated_object_id: terminal_pool
+      state_topic: state/terminal_pool
+
+  # Supervisory and Emergency Layer
+  - id: emergency_agent
+    class: EmergencyAgent
+    config:
+      subscribed_topics:
+        - state/pipe_1
+        - state/pipe_2
+      pressure_threshold: 0.3
+      action_topic: control/water_intake_gate
+
+  - id: central_dispatcher
+    class: CentralDispatcherAgent
+    config:
+      subscribed_topic: state/terminal_pool
+      observation_key: water_level
+      command_topic: command/intake_gate_ctrl
+      dispatcher_params:
+        low_level: 212.0
+        high_level: 213.0
+        low_setpoint: 349.8
+        high_setpoint: 349.2
+
+  # Data Input Layer
+  - id: csv_inflow
+    class: CsvInflowAgent
+    config:
+      target_component_id: wendegen_reservoir
+      # Path is relative to the scenario directory
+      csv_file: data/historical_inflow.csv
+      time_column: time
+      data_column: inflow
+
+  # Communication Proxy Agent for distributed computing
+  - id: comm_proxy
+    class: CommunicationProxyAgent
+    config:
+      # The amqp_url should be provided by the environment in a real deployment.
+      # For docker-compose, 'rabbitmq' is the hostname of the service.
+      amqp_url: "amqp://guest:guest@rabbitmq:5672/"
+      exchange_name: "water_system_exchange"
+      # Forward all state updates from the digital twins to the outside world
+      topics_to_forward:
+        - "state/wendegen_reservoir"
+        - "state/water_intake_gate"
+        - "state/tunnel_1"
+        - "state/taoriver_gate"
+        - "state/tunnel_2"
+        - "state/guiliu_gate"
+        - "state/tunnel_3"
+        - "state/connection_pool"
+        - "state/pipe_1"
+        - "state/online_valve"
+        - "state/pipe_2"
+        - "state/terminal_valve"
+        - "state/terminal_pool"
+      # Listen for external commands, e.g., from a central dashboard
+      inbound_queue_name: "inbound_to_simulation"

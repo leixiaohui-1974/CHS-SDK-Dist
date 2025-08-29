@@ -1,0 +1,4 @@
+# Global simulation settings
+simulation:
+  duration: 168  # hours
+  dt: 1.0      # hour
