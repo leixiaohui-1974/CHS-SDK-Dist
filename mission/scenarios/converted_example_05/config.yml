@@ -1,0 +1,3 @@
+simulation:
+  duration: 300
+  dt: 1.0

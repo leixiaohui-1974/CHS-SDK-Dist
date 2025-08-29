@@ -1,0 +1,13 @@
+connections:
+  - upstream: forebay_reservoir
+    downstream: turbine_1
+  - upstream: forebay_reservoir
+    downstream: turbine_2
+  - upstream: forebay_reservoir
+    downstream: turbine_3
+  - upstream: forebay_reservoir
+    downstream: turbine_4
+  - upstream: forebay_reservoir
+    downstream: turbine_5
+  - upstream: forebay_reservoir
+    downstream: turbine_6

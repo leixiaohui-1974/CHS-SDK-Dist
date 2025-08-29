@@ -100,10 +100,12 @@ class SimulationLoader:
                 "CommunicationProxyAgent": "core_lib.distributor.communication_proxy_agent.CommunicationProxyAgent",
             }
 
-            if class_path not in CLASS_MAP:
-                raise ImportError(f"Class '{class_path}' not found in CLASS_MAP.")
-
-            full_class_path = CLASS_MAP[class_path]
+            if '.' in class_path:
+                full_class_path = class_path
+            elif class_path in CLASS_MAP:
+                full_class_path = CLASS_MAP[class_path]
+            else:
+                raise ImportError(f"Class '{class_path}' not found in CLASS_MAP and is not a full import path.")
             module_name, class_name = full_class_path.rsplit('.', 1)
             module = importlib.import_module(module_name)
             return getattr(module, class_name)
@@ -186,32 +188,33 @@ class SimulationLoader:
         # Load agents
         for agent_conf in self.agents_config.get('agents', []):
             agent_id = agent_conf['id']
-            agent_class_name = agent_conf['class']
+            agent_class_path = agent_conf['class']
+            short_class_name = agent_class_path.split('.')[-1]
             config = agent_conf.get('config', {})
-            logging.info(f"  - Creating agent '{agent_id}' of class '{agent_class_name}'")
+            logging.info(f"  - Creating agent '{agent_id}' of class '{agent_class_path}'")
 
-            AgentClass = self._get_class(agent_class_name)
+            AgentClass = self._get_class(agent_class_path)
 
             # Prepare constructor arguments dynamically based on agent type
             args = {'agent_id': agent_id, 'message_bus': self.message_bus}
 
-            if agent_class_name == 'DigitalTwinAgent':
+            if short_class_name == 'DigitalTwinAgent':
                 sim_obj_id = config['simulated_object_id']
                 args['simulated_object'] = self.component_instances[sim_obj_id]
                 args['state_topic'] = config['state_topic']
 
-            elif agent_class_name == 'EmergencyAgent':
+            elif short_class_name == 'EmergencyAgent':
                 args['subscribed_topics'] = config['subscribed_topics']
                 args['pressure_threshold'] = config['pressure_threshold']
                 args['action_topic'] = config['action_topic']
 
-            elif agent_class_name == 'CentralDispatcherAgent':
+            elif short_class_name == 'CentralDispatcherAgent':
                 args['subscribed_topic'] = config['subscribed_topic']
                 args['observation_key'] = config['observation_key']
                 args['command_topic'] = config['command_topic']
                 args['dispatcher_params'] = config['dispatcher_params']
 
-            elif agent_class_name == 'CsvInflowAgent':
+            elif short_class_name == 'CsvInflowAgent':
                 target_comp_id = config['target_component_id']
                 args['target_component'] = self.component_instances[target_comp_id]
                 # Resolve path relative to scenario directory
@@ -220,18 +223,21 @@ class SimulationLoader:
                 args['time_column'] = config['time_column']
                 args['data_column'] = config['data_column']
 
-            elif agent_class_name == 'CommunicationProxyAgent':
+            elif short_class_name == 'CommunicationProxyAgent':
                 # Pass all config parameters directly to the agent's constructor
                 for key, value in config.items():
                     args[key] = value
 
-            elif agent_class_name == 'LocalControlAgent':
+            elif short_class_name == 'LocalControlAgent':
                 # Handle the nested controller object
                 controller_conf = config.pop('controller')
                 CtrlClass = self._get_class(controller_conf['class'])
                 controller_instance = CtrlClass(**controller_conf.get('config', {}))
                 args['controller'] = controller_instance
                 # Pass remaining config to the agent constructor
+                args.update(config)
+            else:
+                # Default case for custom agents: pass the config dict as kwargs
                 args.update(config)
 
             instance = AgentClass(**args)
